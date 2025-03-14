@@ -1,0 +1,3253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vereinsverwaltung>
+  <mitglied>
+    <mitglnr>1</mitglnr>
+    <name>Estella Foster</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1991-05-03</geburtstag>
+    <adresse1>Booj Point</adresse1>
+    <adresse2>33</adresse2>
+    <adresse3>Zubvarho</adresse3>
+    <adresse4>79078</adresse4>
+    <vereinsnr>22</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Estella Foster</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>2</mitglnr>
+    <name>Blake Stanley</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1982-06-25</geburtstag>
+    <adresse1>Viksog Street</adresse1>
+    <adresse2>24</adresse2>
+    <adresse3>Doppoaf</adresse3>
+    <adresse4>69507</adresse4>
+    <vereinsnr>18</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Blake Stanley</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>3</mitglnr>
+    <name>Seth Byrd</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1988-08-14</geburtstag>
+    <adresse1>Vafi Manor</adresse1>
+    <adresse2>35</adresse2>
+    <adresse3>Naicohi</adresse3>
+    <adresse4>77655</adresse4>
+    <vereinsnr>34</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Seth Byrd</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>4</mitglnr>
+    <name>Stanley Taylor</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1994-05-13</geburtstag>
+    <adresse1>Kevat Drive</adresse1>
+    <adresse2>43</adresse2>
+    <adresse3>Heebnem</adresse3>
+    <adresse4>67795</adresse4>
+    <vereinsnr>47</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Stanley Taylor</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>5</mitglnr>
+    <name>Lucile Conner</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1962-03-05</geburtstag>
+    <adresse1>Kepo Junction</adresse1>
+    <adresse2>32</adresse2>
+    <adresse3>Bifushuv</adresse3>
+    <adresse4>90741</adresse4>
+    <vereinsnr>32</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Lucile Conner</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>6</mitglnr>
+    <name>Jerome Wolfe</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>2001-03-30</geburtstag>
+    <adresse1>Ukra Pass</adresse1>
+    <adresse2>63</adresse2>
+    <adresse3>Kuspuprip</adresse3>
+    <adresse4>62849</adresse4>
+    <vereinsnr>46</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Jerome Wolfe</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>7</mitglnr>
+    <name>Danny Drake</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1975-08-18</geburtstag>
+    <adresse1>Ejca Square</adresse1>
+    <adresse2>39</adresse2>
+    <adresse3>Mizamo</adresse3>
+    <adresse4>7151</adresse4>
+    <vereinsnr>8</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Danny Drake</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>8</mitglnr>
+    <name>Johnny Cook</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1959-12-08</geburtstag>
+    <adresse1>Bicfu Pass</adresse1>
+    <adresse2>23</adresse2>
+    <adresse3>Degmecze</adresse3>
+    <adresse4>45859</adresse4>
+    <vereinsnr>34</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Johnny Cook</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>9</mitglnr>
+    <name>Roy Snyder</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1978-04-30</geburtstag>
+    <adresse1>Mecos Turnpike</adresse1>
+    <adresse2>58</adresse2>
+    <adresse3>Wofudviv</adresse3>
+    <adresse4>87805</adresse4>
+    <vereinsnr>97</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Roy Snyder</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>10</mitglnr>
+    <name>Mathilda Paul</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1960-02-03</geburtstag>
+    <adresse1>Cutala Lane</adresse1>
+    <adresse2>32</adresse2>
+    <adresse3>Ircezzaj</adresse3>
+    <adresse4>89420</adresse4>
+    <vereinsnr>39</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Mathilda Paul</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>11</mitglnr>
+    <name>Dale Ellis</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1977-02-16</geburtstag>
+    <adresse1>Ujimet Extension</adresse1>
+    <adresse2>21</adresse2>
+    <adresse3>Abefeuhi</adresse3>
+    <adresse4>55863</adresse4>
+    <vereinsnr>56</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Dale Ellis</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>12</mitglnr>
+    <name>Laura Gray</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1984-07-20</geburtstag>
+    <adresse1>Akbe Square</adresse1>
+    <adresse2>30</adresse2>
+    <adresse3>Ituriwe</adresse3>
+    <adresse4>83909</adresse4>
+    <vereinsnr>50</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Laura Gray</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>13</mitglnr>
+    <name>Jay Lambert</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1971-08-28</geburtstag>
+    <adresse1>Anate Center</adresse1>
+    <adresse2>51</adresse2>
+    <adresse3>Cuhbuhnin</adresse3>
+    <adresse4>1922</adresse4>
+    <vereinsnr>41</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Jay Lambert</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>14</mitglnr>
+    <name>Phoebe Ortiz</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1977-02-22</geburtstag>
+    <adresse1>Zeler Park</adresse1>
+    <adresse2>50</adresse2>
+    <adresse3>Hafnusa</adresse3>
+    <adresse4>49307</adresse4>
+    <vereinsnr>94</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Phoebe Ortiz</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>15</mitglnr>
+    <name>Isaac Jacobs</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1998-08-06</geburtstag>
+    <adresse1>Adicus Mill</adresse1>
+    <adresse2>59</adresse2>
+    <adresse3>Taczelwav</adresse3>
+    <adresse4>64913</adresse4>
+    <vereinsnr>0</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Isaac Jacobs</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>16</mitglnr>
+    <name>Ryan Rowe</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1979-03-12</geburtstag>
+    <adresse1>Hemuja View</adresse1>
+    <adresse2>33</adresse2>
+    <adresse3>Arnohza</adresse3>
+    <adresse4>80159</adresse4>
+    <vereinsnr>88</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Ryan Rowe</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>17</mitglnr>
+    <name>Phillip Garza</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1965-12-04</geburtstag>
+    <adresse1>Ubonon Street</adresse1>
+    <adresse2>36</adresse2>
+    <adresse3>Neralep</adresse3>
+    <adresse4>84332</adresse4>
+    <vereinsnr>10</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Phillip Garza</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>18</mitglnr>
+    <name>Nancy Bennett</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1997-03-20</geburtstag>
+    <adresse1>Luhi Way</adresse1>
+    <adresse2>61</adresse2>
+    <adresse3>Bojafjit</adresse3>
+    <adresse4>3342</adresse4>
+    <vereinsnr>64</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Nancy Bennett</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>19</mitglnr>
+    <name>Tommy Mitchell</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1977-04-17</geburtstag>
+    <adresse1>Azote Lane</adresse1>
+    <adresse2>48</adresse2>
+    <adresse3>Aswuemo</adresse3>
+    <adresse4>87623</adresse4>
+    <vereinsnr>99</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Tommy Mitchell</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>20</mitglnr>
+    <name>Calvin Webb</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1962-06-22</geburtstag>
+    <adresse1>Nonon Circle</adresse1>
+    <adresse2>34</adresse2>
+    <adresse3>Zizaoz</adresse3>
+    <adresse4>75115</adresse4>
+    <vereinsnr>89</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Calvin Webb</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>21</mitglnr>
+    <name>Lee Cooper</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1969-11-18</geburtstag>
+    <adresse1>Taha Mill</adresse1>
+    <adresse2>63</adresse2>
+    <adresse3>Tiuputuf</adresse3>
+    <adresse4>28177</adresse4>
+    <vereinsnr>27</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Lee Cooper</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>22</mitglnr>
+    <name>Leah Schmidt</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1988-10-06</geburtstag>
+    <adresse1>Wanaf Trail</adresse1>
+    <adresse2>26</adresse2>
+    <adresse3>Coinze</adresse3>
+    <adresse4>99512</adresse4>
+    <vereinsnr>39</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Leah Schmidt</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>23</mitglnr>
+    <name>Ethel Greene</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1976-10-30</geburtstag>
+    <adresse1>Jojpi Way</adresse1>
+    <adresse2>54</adresse2>
+    <adresse3>Riucuzo</adresse3>
+    <adresse4>10261</adresse4>
+    <vereinsnr>25</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Ethel Greene</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>24</mitglnr>
+    <name>Katherine Fox</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>2002-07-14</geburtstag>
+    <adresse1>Deasa Pass</adresse1>
+    <adresse2>35</adresse2>
+    <adresse3>Lagetco</adresse3>
+    <adresse4>95222</adresse4>
+    <vereinsnr>68</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Katherine Fox</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>25</mitglnr>
+    <name>Rachel Romero</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1978-09-28</geburtstag>
+    <adresse1>Norit Road</adresse1>
+    <adresse2>40</adresse2>
+    <adresse3>Katogicu</adresse3>
+    <adresse4>94130</adresse4>
+    <vereinsnr>52</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Rachel Romero</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>26</mitglnr>
+    <name>Mable Carter</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>2002-03-20</geburtstag>
+    <adresse1>Borabu Heights</adresse1>
+    <adresse2>30</adresse2>
+    <adresse3>Nencoaju</adresse3>
+    <adresse4>4475</adresse4>
+    <vereinsnr>16</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Mable Carter</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>27</mitglnr>
+    <name>Troy Steele</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1976-06-29</geburtstag>
+    <adresse1>Apogi Trail</adresse1>
+    <adresse2>47</adresse2>
+    <adresse3>Hifetut</adresse3>
+    <adresse4>97991</adresse4>
+    <vereinsnr>30</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Troy Steele</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>28</mitglnr>
+    <name>Norman Ross</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1977-07-21</geburtstag>
+    <adresse1>Uvmaw Extension</adresse1>
+    <adresse2>53</adresse2>
+    <adresse3>Bonahni</adresse3>
+    <adresse4>17908</adresse4>
+    <vereinsnr>78</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Norman Ross</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>29</mitglnr>
+    <name>Eddie Stevens</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1989-01-15</geburtstag>
+    <adresse1>Fedfo Place</adresse1>
+    <adresse2>64</adresse2>
+    <adresse3>Topmirse</adresse3>
+    <adresse4>26043</adresse4>
+    <vereinsnr>40</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Eddie Stevens</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>30</mitglnr>
+    <name>Bradley Ruiz</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>2003-08-24</geburtstag>
+    <adresse1>Titha Highway</adresse1>
+    <adresse2>25</adresse2>
+    <adresse3>Peawemuj</adresse3>
+    <adresse4>58157</adresse4>
+    <vereinsnr>55</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Bradley Ruiz</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>31</mitglnr>
+    <name>Helena Vasquez</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1983-02-15</geburtstag>
+    <adresse1>Azni Pass</adresse1>
+    <adresse2>45</adresse2>
+    <adresse3>Kiwucec</adresse3>
+    <adresse4>2668</adresse4>
+    <vereinsnr>76</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Helena Vasquez</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>32</mitglnr>
+    <name>Flora Morton</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1962-08-24</geburtstag>
+    <adresse1>Urius Path</adresse1>
+    <adresse2>54</adresse2>
+    <adresse3>Gidukupug</adresse3>
+    <adresse4>27787</adresse4>
+    <vereinsnr>82</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Flora Morton</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>33</mitglnr>
+    <name>Jeffery Harvey</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1967-09-28</geburtstag>
+    <adresse1>Emuib River</adresse1>
+    <adresse2>55</adresse2>
+    <adresse3>Awepimhom</adresse3>
+    <adresse4>99142</adresse4>
+    <vereinsnr>85</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Jeffery Harvey</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>34</mitglnr>
+    <name>Millie Watkins</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1959-07-02</geburtstag>
+    <adresse1>Nake Heights</adresse1>
+    <adresse2>49</adresse2>
+    <adresse3>Ganwiize</adresse3>
+    <adresse4>7119</adresse4>
+    <vereinsnr>14</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Millie Watkins</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>35</mitglnr>
+    <name>Sue Hopkins</name>
+    <geschlecht></geschlecht>
+    <geburtstag>2005-10-27</geburtstag>
+    <adresse1>Kuhno Extension</adresse1>
+    <adresse2>32</adresse2>
+    <adresse3>Winciset</adresse3>
+    <adresse4>31246</adresse4>
+    <vereinsnr>64</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Sue Hopkins</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>36</mitglnr>
+    <name>Marguerite Sims</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1998-12-07</geburtstag>
+    <adresse1>Harac Plaza</adresse1>
+    <adresse2>46</adresse2>
+    <adresse3>Sednadi</adresse3>
+    <adresse4>31789</adresse4>
+    <vereinsnr>93</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Marguerite Sims</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>37</mitglnr>
+    <name>Hettie McKenzie</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1978-11-26</geburtstag>
+    <adresse1>Fibod Pass</adresse1>
+    <adresse2>31</adresse2>
+    <adresse3>Peutca</adresse3>
+    <adresse4>10061</adresse4>
+    <vereinsnr>63</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Hettie McKenzie</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>38</mitglnr>
+    <name>Mildred Bryan</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1999-05-19</geburtstag>
+    <adresse1>Dagje Parkway</adresse1>
+    <adresse2>38</adresse2>
+    <adresse3>Hotehba</adresse3>
+    <adresse4>51283</adresse4>
+    <vereinsnr>42</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Mildred Bryan</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>39</mitglnr>
+    <name>Effie Estrada</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1991-12-02</geburtstag>
+    <adresse1>Ewapoh Pass</adresse1>
+    <adresse2>40</adresse2>
+    <adresse3>Hewhuju</adresse3>
+    <adresse4>60712</adresse4>
+    <vereinsnr>7</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Effie Estrada</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>40</mitglnr>
+    <name>Edward Campbell</name>
+    <geschlecht></geschlecht>
+    <geburtstag>2000-10-20</geburtstag>
+    <adresse1>Fegtem Parkway</adresse1>
+    <adresse2>50</adresse2>
+    <adresse3>Gamlecdav</adresse3>
+    <adresse4>88688</adresse4>
+    <vereinsnr>49</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Edward Campbell</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>41</mitglnr>
+    <name>Isaac Garner</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1999-12-06</geburtstag>
+    <adresse1>Cubwi Court</adresse1>
+    <adresse2>35</adresse2>
+    <adresse3>Sesgena</adresse3>
+    <adresse4>6887</adresse4>
+    <vereinsnr>15</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Isaac Garner</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>42</mitglnr>
+    <name>Steven Walker</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1973-07-02</geburtstag>
+    <adresse1>Mouto Grove</adresse1>
+    <adresse2>43</adresse2>
+    <adresse3>Ehmanre</adresse3>
+    <adresse4>17402</adresse4>
+    <vereinsnr>98</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Steven Walker</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>43</mitglnr>
+    <name>Eddie Murray</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1998-03-31</geburtstag>
+    <adresse1>Biopa Boulevard</adresse1>
+    <adresse2>26</adresse2>
+    <adresse3>Dajahkes</adresse3>
+    <adresse4>71849</adresse4>
+    <vereinsnr>49</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Eddie Murray</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>44</mitglnr>
+    <name>Ruby Howell</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1989-05-23</geburtstag>
+    <adresse1>Zehbu Court</adresse1>
+    <adresse2>25</adresse2>
+    <adresse3>Jodmuzi</adresse3>
+    <adresse4>20670</adresse4>
+    <vereinsnr>96</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Ruby Howell</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>45</mitglnr>
+    <name>Sara Hines</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1968-12-19</geburtstag>
+    <adresse1>Ujiwad Parkway</adresse1>
+    <adresse2>22</adresse2>
+    <adresse3>Hoizwu</adresse3>
+    <adresse4>26196</adresse4>
+    <vereinsnr>43</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Sara Hines</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>46</mitglnr>
+    <name>Ethel Colon</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1977-07-19</geburtstag>
+    <adresse1>Gewan Boulevard</adresse1>
+    <adresse2>28</adresse2>
+    <adresse3>Anokire</adresse3>
+    <adresse4>84914</adresse4>
+    <vereinsnr>9</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Ethel Colon</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>47</mitglnr>
+    <name>Luella Frazier</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1990-05-08</geburtstag>
+    <adresse1>Gazej Extension</adresse1>
+    <adresse2>21</adresse2>
+    <adresse3>Deprujkej</adresse3>
+    <adresse4>55818</adresse4>
+    <vereinsnr>4</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Luella Frazier</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>48</mitglnr>
+    <name>Mae Goodman</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1982-02-10</geburtstag>
+    <adresse1>Veum Court</adresse1>
+    <adresse2>37</adresse2>
+    <adresse3>Rakjukaz</adresse3>
+    <adresse4>99261</adresse4>
+    <vereinsnr>89</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Mae Goodman</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>49</mitglnr>
+    <name>Della Fisher</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1996-01-24</geburtstag>
+    <adresse1>Wakri Highway</adresse1>
+    <adresse2>52</adresse2>
+    <adresse3>Wawususap</adresse3>
+    <adresse4>9645</adresse4>
+    <vereinsnr>92</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Della Fisher</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>50</mitglnr>
+    <name>Lenora Townsend</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1986-02-17</geburtstag>
+    <adresse1>Diba Place</adresse1>
+    <adresse2>33</adresse2>
+    <adresse3>Kosezuh</adresse3>
+    <adresse4>3373</adresse4>
+    <vereinsnr>82</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Lenora Townsend</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>51</mitglnr>
+    <name>Laura Watts</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1963-06-06</geburtstag>
+    <adresse1>Vota Square</adresse1>
+    <adresse2>46</adresse2>
+    <adresse3>Mopvumil</adresse3>
+    <adresse4>52343</adresse4>
+    <vereinsnr>42</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Laura Watts</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>52</mitglnr>
+    <name>Bruce Vega</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1961-11-23</geburtstag>
+    <adresse1>Bonim Park</adresse1>
+    <adresse2>53</adresse2>
+    <adresse3>Lapugeg</adresse3>
+    <adresse4>47122</adresse4>
+    <vereinsnr>57</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Bruce Vega</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>53</mitglnr>
+    <name>Betty Young</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1967-01-20</geburtstag>
+    <adresse1>Hoglek Heights</adresse1>
+    <adresse2>60</adresse2>
+    <adresse3>Pejilesi</adresse3>
+    <adresse4>92861</adresse4>
+    <vereinsnr>7</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Betty Young</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>54</mitglnr>
+    <name>Garrett Wise</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1995-11-30</geburtstag>
+    <adresse1>Izuju Heights</adresse1>
+    <adresse2>56</adresse2>
+    <adresse3>Radupbuc</adresse3>
+    <adresse4>21886</adresse4>
+    <vereinsnr>6</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Garrett Wise</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>55</mitglnr>
+    <name>Keith Hansen</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1967-03-04</geburtstag>
+    <adresse1>Wuno Key</adresse1>
+    <adresse2>33</adresse2>
+    <adresse3>Puradug</adresse3>
+    <adresse4>49380</adresse4>
+    <vereinsnr>17</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Keith Hansen</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>56</mitglnr>
+    <name>Louis Sanchez</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1987-04-17</geburtstag>
+    <adresse1>Gevhuc Place</adresse1>
+    <adresse2>54</adresse2>
+    <adresse3>Kampozruv</adresse3>
+    <adresse4>30965</adresse4>
+    <vereinsnr>47</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Louis Sanchez</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>57</mitglnr>
+    <name>Brett Green</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1992-07-31</geburtstag>
+    <adresse1>Nife Key</adresse1>
+    <adresse2>37</adresse2>
+    <adresse3>Zihwuju</adresse3>
+    <adresse4>70655</adresse4>
+    <vereinsnr>91</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Brett Green</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>58</mitglnr>
+    <name>Janie Little</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1974-06-16</geburtstag>
+    <adresse1>Woke Path</adresse1>
+    <adresse2>24</adresse2>
+    <adresse3>Vapomac</adresse3>
+    <adresse4>6348</adresse4>
+    <vereinsnr>49</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Janie Little</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>59</mitglnr>
+    <name>Lewis Bryant</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1985-09-25</geburtstag>
+    <adresse1>Metlim Extension</adresse1>
+    <adresse2>24</adresse2>
+    <adresse3>Luwafon</adresse3>
+    <adresse4>61072</adresse4>
+    <vereinsnr>23</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Lewis Bryant</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>60</mitglnr>
+    <name>Danny Barrett</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1993-03-08</geburtstag>
+    <adresse1>Gujrun Heights</adresse1>
+    <adresse2>18</adresse2>
+    <adresse3>Luhnoptuz</adresse3>
+    <adresse4>3633</adresse4>
+    <vereinsnr>48</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Danny Barrett</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>61</mitglnr>
+    <name>Addie Burton</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1967-02-21</geburtstag>
+    <adresse1>Emahoh River</adresse1>
+    <adresse2>18</adresse2>
+    <adresse3>Wolpujez</adresse3>
+    <adresse4>88384</adresse4>
+    <vereinsnr>18</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Addie Burton</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>62</mitglnr>
+    <name>Dorothy Allison</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1988-07-11</geburtstag>
+    <adresse1>Dawi Center</adresse1>
+    <adresse2>32</adresse2>
+    <adresse3>Felepuf</adresse3>
+    <adresse4>17750</adresse4>
+    <vereinsnr>33</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Dorothy Allison</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>63</mitglnr>
+    <name>Augusta Martin</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1978-03-12</geburtstag>
+    <adresse1>Rocto Avenue</adresse1>
+    <adresse2>53</adresse2>
+    <adresse3>Ragliju</adresse3>
+    <adresse4>25472</adresse4>
+    <vereinsnr>4</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Augusta Martin</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>64</mitglnr>
+    <name>Alfred Hunt</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1974-11-20</geburtstag>
+    <adresse1>Celda Place</adresse1>
+    <adresse2>29</adresse2>
+    <adresse3>Ecagiun</adresse3>
+    <adresse4>2623</adresse4>
+    <vereinsnr>22</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Alfred Hunt</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>65</mitglnr>
+    <name>Earl Harris</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1965-12-01</geburtstag>
+    <adresse1>Jewus Point</adresse1>
+    <adresse2>51</adresse2>
+    <adresse3>Abgolceb</adresse3>
+    <adresse4>63355</adresse4>
+    <vereinsnr>0</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Earl Harris</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>66</mitglnr>
+    <name>Lloyd Abbott</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1986-01-10</geburtstag>
+    <adresse1>Diklem Road</adresse1>
+    <adresse2>23</adresse2>
+    <adresse3>Buzihdos</adresse3>
+    <adresse4>91199</adresse4>
+    <vereinsnr>55</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Lloyd Abbott</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>67</mitglnr>
+    <name>Isabelle King</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1975-05-19</geburtstag>
+    <adresse1>Tapuk Road</adresse1>
+    <adresse2>54</adresse2>
+    <adresse3>Etbozo</adresse3>
+    <adresse4>38644</adresse4>
+    <vereinsnr>60</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Isabelle King</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>68</mitglnr>
+    <name>Vincent Gill</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1997-07-17</geburtstag>
+    <adresse1>Ezoev Boulevard</adresse1>
+    <adresse2>49</adresse2>
+    <adresse3>Nostafrow</adresse3>
+    <adresse4>36006</adresse4>
+    <vereinsnr>6</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Vincent Gill</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>69</mitglnr>
+    <name>Nathaniel Osborne</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1968-10-09</geburtstag>
+    <adresse1>Nujnim River</adresse1>
+    <adresse2>19</adresse2>
+    <adresse3>Lapdojis</adresse3>
+    <adresse4>45098</adresse4>
+    <vereinsnr>40</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Nathaniel Osborne</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>70</mitglnr>
+    <name>Pearl Holmes</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1971-08-22</geburtstag>
+    <adresse1>Tawe Mill</adresse1>
+    <adresse2>65</adresse2>
+    <adresse3>Zulawfu</adresse3>
+    <adresse4>49926</adresse4>
+    <vereinsnr>47</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Pearl Holmes</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>71</mitglnr>
+    <name>Andrew Hunt</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1978-09-15</geburtstag>
+    <adresse1>Bagpes Junction</adresse1>
+    <adresse2>24</adresse2>
+    <adresse3>Asitowbol</adresse3>
+    <adresse4>34418</adresse4>
+    <vereinsnr>83</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Andrew Hunt</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>72</mitglnr>
+    <name>Jerome Schultz</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1994-04-13</geburtstag>
+    <adresse1>Mefi Point</adresse1>
+    <adresse2>30</adresse2>
+    <adresse3>Lislebu</adresse3>
+    <adresse4>69464</adresse4>
+    <vereinsnr>58</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Jerome Schultz</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>73</mitglnr>
+    <name>Mario Ramos</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1984-12-22</geburtstag>
+    <adresse1>Ujcur Street</adresse1>
+    <adresse2>49</adresse2>
+    <adresse3>Dakvobo</adresse3>
+    <adresse4>71897</adresse4>
+    <vereinsnr>69</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Mario Ramos</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>74</mitglnr>
+    <name>Myrtie Newton</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1970-01-29</geburtstag>
+    <adresse1>Potamo Center</adresse1>
+    <adresse2>32</adresse2>
+    <adresse3>Badise</adresse3>
+    <adresse4>49354</adresse4>
+    <vereinsnr>84</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Myrtie Newton</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>75</mitglnr>
+    <name>Jeremiah Ramos</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1969-01-19</geburtstag>
+    <adresse1>Nofu Loop</adresse1>
+    <adresse2>31</adresse2>
+    <adresse3>Lurkefow</adresse3>
+    <adresse4>85188</adresse4>
+    <vereinsnr>73</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Jeremiah Ramos</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>76</mitglnr>
+    <name>Lloyd Peters</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1966-04-28</geburtstag>
+    <adresse1>Givev Court</adresse1>
+    <adresse2>52</adresse2>
+    <adresse3>Zuwcuco</adresse3>
+    <adresse4>49102</adresse4>
+    <vereinsnr>54</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Lloyd Peters</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>77</mitglnr>
+    <name>Alberta Burton</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1973-05-23</geburtstag>
+    <adresse1>Saja Way</adresse1>
+    <adresse2>57</adresse2>
+    <adresse3>Bobcigul</adresse3>
+    <adresse4>80032</adresse4>
+    <vereinsnr>17</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Alberta Burton</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>78</mitglnr>
+    <name>Esther Armstrong</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1982-11-21</geburtstag>
+    <adresse1>Jegude Glen</adresse1>
+    <adresse2>21</adresse2>
+    <adresse3>Umwoku</adresse3>
+    <adresse4>83720</adresse4>
+    <vereinsnr>24</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Esther Armstrong</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>79</mitglnr>
+    <name>Victor Matthews</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1999-05-12</geburtstag>
+    <adresse1>Beire View</adresse1>
+    <adresse2>34</adresse2>
+    <adresse3>Gitmibvih</adresse3>
+    <adresse4>89644</adresse4>
+    <vereinsnr>17</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Victor Matthews</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>80</mitglnr>
+    <name>Olive Abbott</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1977-05-17</geburtstag>
+    <adresse1>Vogen Highway</adresse1>
+    <adresse2>52</adresse2>
+    <adresse3>Ekiibzif</adresse3>
+    <adresse4>42592</adresse4>
+    <vereinsnr>96</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Olive Abbott</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>81</mitglnr>
+    <name>Agnes Smith</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1991-08-14</geburtstag>
+    <adresse1>Bese Mill</adresse1>
+    <adresse2>45</adresse2>
+    <adresse3>Izuibla</adresse3>
+    <adresse4>29133</adresse4>
+    <vereinsnr>88</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Agnes Smith</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>82</mitglnr>
+    <name>Theresa Price</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1989-02-17</geburtstag>
+    <adresse1>Befso Lane</adresse1>
+    <adresse2>24</adresse2>
+    <adresse3>Zintarlub</adresse3>
+    <adresse4>64051</adresse4>
+    <vereinsnr>58</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Theresa Price</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>83</mitglnr>
+    <name>Tom Chapman</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1971-06-01</geburtstag>
+    <adresse1>Birre Circle</adresse1>
+    <adresse2>58</adresse2>
+    <adresse3>Irobuve</adresse3>
+    <adresse4>11246</adresse4>
+    <vereinsnr>39</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Tom Chapman</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>84</mitglnr>
+    <name>Blake Wheeler</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1992-06-06</geburtstag>
+    <adresse1>Netje Court</adresse1>
+    <adresse2>33</adresse2>
+    <adresse3>Toucuar</adresse3>
+    <adresse4>96179</adresse4>
+    <vereinsnr>93</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Blake Wheeler</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>85</mitglnr>
+    <name>Helena Jones</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1992-07-15</geburtstag>
+    <adresse1>Geov Court</adresse1>
+    <adresse2>61</adresse2>
+    <adresse3>Pozmebuk</adresse3>
+    <adresse4>54416</adresse4>
+    <vereinsnr>64</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Helena Jones</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>86</mitglnr>
+    <name>Hallie Shaw</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1994-01-07</geburtstag>
+    <adresse1>Soudu Grove</adresse1>
+    <adresse2>45</adresse2>
+    <adresse3>Raszeke</adresse3>
+    <adresse4>17160</adresse4>
+    <vereinsnr>30</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Hallie Shaw</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>87</mitglnr>
+    <name>Howard White</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1977-08-28</geburtstag>
+    <adresse1>Ucdis Park</adresse1>
+    <adresse2>19</adresse2>
+    <adresse3>Eweesvof</adresse3>
+    <adresse4>78304</adresse4>
+    <vereinsnr>88</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Howard White</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>88</mitglnr>
+    <name>Katie Tyler</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1979-04-10</geburtstag>
+    <adresse1>Lara Park</adresse1>
+    <adresse2>31</adresse2>
+    <adresse3>Patopem</adresse3>
+    <adresse4>14369</adresse4>
+    <vereinsnr>100</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Katie Tyler</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>89</mitglnr>
+    <name>Austin Estrada</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1980-06-01</geburtstag>
+    <adresse1>Biwa Trail</adresse1>
+    <adresse2>46</adresse2>
+    <adresse3>Tilomduc</adresse3>
+    <adresse4>39353</adresse4>
+    <vereinsnr>54</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Austin Estrada</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>90</mitglnr>
+    <name>Edgar Johnston</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1986-10-18</geburtstag>
+    <adresse1>Zenek Road</adresse1>
+    <adresse2>43</adresse2>
+    <adresse3>Pipufha</adresse3>
+    <adresse4>39253</adresse4>
+    <vereinsnr>14</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Edgar Johnston</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>91</mitglnr>
+    <name>Mittie Parker</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1987-10-11</geburtstag>
+    <adresse1>Pinniz Ridge</adresse1>
+    <adresse2>24</adresse2>
+    <adresse3>Rehotip</adresse3>
+    <adresse4>24730</adresse4>
+    <vereinsnr>48</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Mittie Parker</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>92</mitglnr>
+    <name>Rose Peters</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>2001-10-18</geburtstag>
+    <adresse1>Kubce Ridge</adresse1>
+    <adresse2>65</adresse2>
+    <adresse3>Gegiko</adresse3>
+    <adresse4>73956</adresse4>
+    <vereinsnr>20</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Rose Peters</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>93</mitglnr>
+    <name>Helena Howard</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1965-01-02</geburtstag>
+    <adresse1>Rina Pass</adresse1>
+    <adresse2>34</adresse2>
+    <adresse3>Sojasa</adresse3>
+    <adresse4>23327</adresse4>
+    <vereinsnr>64</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Helena Howard</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>94</mitglnr>
+    <name>Phillip Watkins</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1958-04-03</geburtstag>
+    <adresse1>Hefu Park</adresse1>
+    <adresse2>41</adresse2>
+    <adresse3>Ajnoze</adresse3>
+    <adresse4>35643</adresse4>
+    <vereinsnr>83</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Phillip Watkins</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>95</mitglnr>
+    <name>Leroy Murphy</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1968-07-05</geburtstag>
+    <adresse1>Ijjac Path</adresse1>
+    <adresse2>43</adresse2>
+    <adresse3>Abruzsi</adresse3>
+    <adresse4>79522</adresse4>
+    <vereinsnr>71</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Leroy Murphy</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>96</mitglnr>
+    <name>Logan Peters</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1999-12-25</geburtstag>
+    <adresse1>Hufus Manor</adresse1>
+    <adresse2>44</adresse2>
+    <adresse3>Ozvitej</adresse3>
+    <adresse4>40350</adresse4>
+    <vereinsnr>92</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Logan Peters</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>97</mitglnr>
+    <name>Lucile Russell</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1978-08-25</geburtstag>
+    <adresse1>Arzu Extension</adresse1>
+    <adresse2>61</adresse2>
+    <adresse3>Naveccu</adresse3>
+    <adresse4>85450</adresse4>
+    <vereinsnr>34</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Lucile Russell</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>98</mitglnr>
+    <name>Irene Sims</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1986-03-28</geburtstag>
+    <adresse1>Giti Grove</adresse1>
+    <adresse2>21</adresse2>
+    <adresse3>Rewducez</adresse3>
+    <adresse4>27475</adresse4>
+    <vereinsnr>55</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Irene Sims</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>99</mitglnr>
+    <name>Garrett Coleman</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1985-11-24</geburtstag>
+    <adresse1>Vafuk Place</adresse1>
+    <adresse2>20</adresse2>
+    <adresse3>Wehsorseb</adresse3>
+    <adresse4>77048</adresse4>
+    <vereinsnr>11</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Garrett Coleman</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>100</mitglnr>
+    <name>Lettie Ballard</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1982-03-25</geburtstag>
+    <adresse1>Kiveh Court</adresse1>
+    <adresse2>61</adresse2>
+    <adresse3>Gefimugib</adresse3>
+    <adresse4>14127</adresse4>
+    <vereinsnr>62</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Lettie Ballard</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>101</mitglnr>
+    <name>Frances Brady</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1973-07-25</geburtstag>
+    <adresse1>Gewwa View</adresse1>
+    <adresse2>44</adresse2>
+    <adresse3>Voruhor</adresse3>
+    <adresse4>73597</adresse4>
+    <vereinsnr>55</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Frances Brady</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>102</mitglnr>
+    <name>Bernice Smith</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1987-02-22</geburtstag>
+    <adresse1>Niem Mill</adresse1>
+    <adresse2>50</adresse2>
+    <adresse3>Imezoik</adresse3>
+    <adresse4>57507</adresse4>
+    <vereinsnr>41</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Bernice Smith</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>103</mitglnr>
+    <name>Dean Chambers</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>2003-04-25</geburtstag>
+    <adresse1>Tawe River</adresse1>
+    <adresse2>33</adresse2>
+    <adresse3>Tesmuncab</adresse3>
+    <adresse4>87483</adresse4>
+    <vereinsnr>13</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Dean Chambers</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>104</mitglnr>
+    <name>Essie Fowler</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1986-09-03</geburtstag>
+    <adresse1>Jiez Place</adresse1>
+    <adresse2>56</adresse2>
+    <adresse3>Nagafad</adresse3>
+    <adresse4>81201</adresse4>
+    <vereinsnr>42</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Essie Fowler</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>105</mitglnr>
+    <name>Brandon McGee</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>2000-04-17</geburtstag>
+    <adresse1>Pinok Center</adresse1>
+    <adresse2>48</adresse2>
+    <adresse3>Jefniwup</adresse3>
+    <adresse4>66271</adresse4>
+    <vereinsnr>24</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Brandon McGee</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>106</mitglnr>
+    <name>Maud Hanson</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1984-05-27</geburtstag>
+    <adresse1>Cibi Mill</adresse1>
+    <adresse2>27</adresse2>
+    <adresse3>Visdosip</adresse3>
+    <adresse4>22182</adresse4>
+    <vereinsnr>82</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Maud Hanson</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>107</mitglnr>
+    <name>Albert Kim</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1979-06-09</geburtstag>
+    <adresse1>Lizji Parkway</adresse1>
+    <adresse2>48</adresse2>
+    <adresse3>Bagkohnu</adresse3>
+    <adresse4>80954</adresse4>
+    <vereinsnr>35</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Albert Kim</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>108</mitglnr>
+    <name>Roger Singleton</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1993-07-23</geburtstag>
+    <adresse1>Wiev Drive</adresse1>
+    <adresse2>58</adresse2>
+    <adresse3>Ifoaleiza</adresse3>
+    <adresse4>28828</adresse4>
+    <vereinsnr>10</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Roger Singleton</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>109</mitglnr>
+    <name>Viola Todd</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1958-05-29</geburtstag>
+    <adresse1>Hupzu Circle</adresse1>
+    <adresse2>64</adresse2>
+    <adresse3>Vezofuv</adresse3>
+    <adresse4></adresse4>
+    <vereinsnr>37</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Viola Todd</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>110</mitglnr>
+    <name>Daniel Morgan</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1972-08-27</geburtstag>
+    <adresse1>Tuko Avenue</adresse1>
+    <adresse2>40</adresse2>
+    <adresse3>Caglifve</adresse3>
+    <adresse4>50540</adresse4>
+    <vereinsnr>2</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Daniel Morgan</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>111</mitglnr>
+    <name>Cora Joseph</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1996-05-11</geburtstag>
+    <adresse1>Gurzij Highway</adresse1>
+    <adresse2>52</adresse2>
+    <adresse3>Kuogilun</adresse3>
+    <adresse4>91996</adresse4>
+    <vereinsnr>47</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Cora Joseph</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>112</mitglnr>
+    <name>Etta Moran</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1996-11-05</geburtstag>
+    <adresse1>Baos Drive</adresse1>
+    <adresse2>54</adresse2>
+    <adresse3>Findikwo</adresse3>
+    <adresse4>2379</adresse4>
+    <vereinsnr>8</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Etta Moran</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>113</mitglnr>
+    <name>Sadie Cannon</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1963-02-14</geburtstag>
+    <adresse1>Suwu Square</adresse1>
+    <adresse2>62</adresse2>
+    <adresse3>Ekepeze</adresse3>
+    <adresse4>88874</adresse4>
+    <vereinsnr>63</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Sadie Cannon</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>114</mitglnr>
+    <name>Frances Williams</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1967-10-12</geburtstag>
+    <adresse1>Wiun Turnpike</adresse1>
+    <adresse2>57</adresse2>
+    <adresse3>Uhcait</adresse3>
+    <adresse4>92378</adresse4>
+    <vereinsnr>43</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Frances Williams</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>115</mitglnr>
+    <name>Derek Gonzalez</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1975-12-12</geburtstag>
+    <adresse1>Kibe Ridge</adresse1>
+    <adresse2>27</adresse2>
+    <adresse3>Fuvubtim</adresse3>
+    <adresse4>8903</adresse4>
+    <vereinsnr>44</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Derek Gonzalez</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>116</mitglnr>
+    <name>Alta Reynolds</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1982-09-26</geburtstag>
+    <adresse1>Jursu Lane</adresse1>
+    <adresse2>60</adresse2>
+    <adresse3>Roawdop</adresse3>
+    <adresse4>92019</adresse4>
+    <vereinsnr>0</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Alta Reynolds</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>117</mitglnr>
+    <name>Benjamin French</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1998-04-17</geburtstag>
+    <adresse1>Bodoh Boulevard</adresse1>
+    <adresse2>25</adresse2>
+    <adresse3>Mazpako</adresse3>
+    <adresse4>88776</adresse4>
+    <vereinsnr>67</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Benjamin French</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>118</mitglnr>
+    <name>Leila Gonzalez</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1991-06-16</geburtstag>
+    <adresse1>Davne Street</adresse1>
+    <adresse2>60</adresse2>
+    <adresse3>Buktigam</adresse3>
+    <adresse4>88717</adresse4>
+    <vereinsnr>63</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Leila Gonzalez</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>119</mitglnr>
+    <name>Danny Crawford</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>2002-10-26</geburtstag>
+    <adresse1>Wogami Manor</adresse1>
+    <adresse2>30</adresse2>
+    <adresse3>Gofirsuc</adresse3>
+    <adresse4>74959</adresse4>
+    <vereinsnr>17</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Danny Crawford</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>120</mitglnr>
+    <name>Jim Norris</name>
+    <geschlecht></geschlecht>
+    <geburtstag>2004-07-15</geburtstag>
+    <adresse1>Hini River</adresse1>
+    <adresse2>52</adresse2>
+    <adresse3>Beberapa</adresse3>
+    <adresse4>52684</adresse4>
+    <vereinsnr>26</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Jim Norris</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>121</mitglnr>
+    <name>Mable Allen</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1962-07-10</geburtstag>
+    <adresse1>Satnic Court</adresse1>
+    <adresse2>50</adresse2>
+    <adresse3>Firiligi</adresse3>
+    <adresse4>35607</adresse4>
+    <vereinsnr>92</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Mable Allen</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>122</mitglnr>
+    <name>Mark Burns</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1967-08-11</geburtstag>
+    <adresse1>Biwuji Extension</adresse1>
+    <adresse2>38</adresse2>
+    <adresse3>Lialafo</adresse3>
+    <adresse4>57269</adresse4>
+    <vereinsnr>70</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Mark Burns</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>123</mitglnr>
+    <name>Callie Kelley</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1997-06-05</geburtstag>
+    <adresse1>Higgo Loop</adresse1>
+    <adresse2>62</adresse2>
+    <adresse3>Teokabe</adresse3>
+    <adresse4>93297</adresse4>
+    <vereinsnr>33</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Callie Kelley</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>124</mitglnr>
+    <name>Mike Patton</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1970-03-11</geburtstag>
+    <adresse1>Maksib Glen</adresse1>
+    <adresse2>41</adresse2>
+    <adresse3>Fiwikoek</adresse3>
+    <adresse4>12735</adresse4>
+    <vereinsnr>21</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Mike Patton</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>125</mitglnr>
+    <name>Tom Poole</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1981-02-14</geburtstag>
+    <adresse1>Sokiz Grove</adresse1>
+    <adresse2>24</adresse2>
+    <adresse3>Zaldodos</adresse3>
+    <adresse4>47775</adresse4>
+    <vereinsnr>78</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Tom Poole</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>126</mitglnr>
+    <name>Alta Padilla</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1958-04-10</geburtstag>
+    <adresse1>Soget Court</adresse1>
+    <adresse2>34</adresse2>
+    <adresse3>Jetiwti</adresse3>
+    <adresse4>43899</adresse4>
+    <vereinsnr>51</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Alta Padilla</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>127</mitglnr>
+    <name>Marian Joseph</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1981-07-07</geburtstag>
+    <adresse1>Cirav View</adresse1>
+    <adresse2>52</adresse2>
+    <adresse3>Jakjugdub</adresse3>
+    <adresse4>11381</adresse4>
+    <vereinsnr>27</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Marian Joseph</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>128</mitglnr>
+    <name>Elnora Edwards</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>2001-03-12</geburtstag>
+    <adresse1>Fozan Manor</adresse1>
+    <adresse2>34</adresse2>
+    <adresse3>Zaszumu</adresse3>
+    <adresse4>17353</adresse4>
+    <vereinsnr>11</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Elnora Edwards</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>129</mitglnr>
+    <name>Kyle Bell</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1968-02-26</geburtstag>
+    <adresse1>Viile Glen</adresse1>
+    <adresse2>54</adresse2>
+    <adresse3>Toowkuv</adresse3>
+    <adresse4>4778</adresse4>
+    <vereinsnr>26</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Kyle Bell</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>130</mitglnr>
+    <name>Samuel Little</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>2002-02-27</geburtstag>
+    <adresse1>Nigoz Boulevard</adresse1>
+    <adresse2>48</adresse2>
+    <adresse3>Ezbihiv</adresse3>
+    <adresse4>57056</adresse4>
+    <vereinsnr>40</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Samuel Little</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>131</mitglnr>
+    <name>Alvin Robbins</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1983-07-20</geburtstag>
+    <adresse1>Wepe Circle</adresse1>
+    <adresse2>65</adresse2>
+    <adresse3>Tetecwej</adresse3>
+    <adresse4>58237</adresse4>
+    <vereinsnr>55</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Alvin Robbins</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>132</mitglnr>
+    <name>Lucile Santos</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1970-12-15</geburtstag>
+    <adresse1>Ekider Key</adresse1>
+    <adresse2>41</adresse2>
+    <adresse3>Jefjici</adresse3>
+    <adresse4>10069</adresse4>
+    <vereinsnr>74</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Lucile Santos</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>133</mitglnr>
+    <name>Minnie Sanders</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1970-10-12</geburtstag>
+    <adresse1>Kenen Circle</adresse1>
+    <adresse2>45</adresse2>
+    <adresse3>Inwaot</adresse3>
+    <adresse4>84585</adresse4>
+    <vereinsnr>37</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Minnie Sanders</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>134</mitglnr>
+    <name>Lee Palmer</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1968-11-29</geburtstag>
+    <adresse1>Olikor Highway</adresse1>
+    <adresse2>41</adresse2>
+    <adresse3>Hapzipsa</adresse3>
+    <adresse4>86254</adresse4>
+    <vereinsnr>33</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Lee Palmer</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>135</mitglnr>
+    <name>Lola Wong</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1983-01-08</geburtstag>
+    <adresse1>Efrid Boulevard</adresse1>
+    <adresse2>29</adresse2>
+    <adresse3>Zigazis</adresse3>
+    <adresse4>48862</adresse4>
+    <vereinsnr>50</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Lola Wong</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>136</mitglnr>
+    <name>Roy Coleman</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1992-06-14</geburtstag>
+    <adresse1>Filvah Point</adresse1>
+    <adresse2>48</adresse2>
+    <adresse3>Dogozi</adresse3>
+    <adresse4>12095</adresse4>
+    <vereinsnr>50</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Roy Coleman</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>137</mitglnr>
+    <name>Allie Potter</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1990-11-09</geburtstag>
+    <adresse1>Wiphon Lane</adresse1>
+    <adresse2>50</adresse2>
+    <adresse3>Teezaise</adresse3>
+    <adresse4>93598</adresse4>
+    <vereinsnr>48</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Allie Potter</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>138</mitglnr>
+    <name>Cora Mann</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1980-05-19</geburtstag>
+    <adresse1>Wafdov Glen</adresse1>
+    <adresse2>48</adresse2>
+    <adresse3>Giikbih</adresse3>
+    <adresse4>11845</adresse4>
+    <vereinsnr>30</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Cora Mann</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>139</mitglnr>
+    <name>Lee Crawford</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1978-09-13</geburtstag>
+    <adresse1>Radoha Manor</adresse1>
+    <adresse2>42</adresse2>
+    <adresse3>Heffulu</adresse3>
+    <adresse4>18372</adresse4>
+    <vereinsnr>28</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Lee Crawford</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>140</mitglnr>
+    <name>Christopher Herrera</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1960-01-02</geburtstag>
+    <adresse1>Recci Ridge</adresse1>
+    <adresse2>30</adresse2>
+    <adresse3>Irhaafu</adresse3>
+    <adresse4>21576</adresse4>
+    <vereinsnr>12</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Christopher Herrera</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>141</mitglnr>
+    <name>Rebecca Cooper</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1978-11-21</geburtstag>
+    <adresse1>Leno Place</adresse1>
+    <adresse2>43</adresse2>
+    <adresse3>Vigsaved</adresse3>
+    <adresse4>80539</adresse4>
+    <vereinsnr>68</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Rebecca Cooper</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>142</mitglnr>
+    <name>Ella Lambert</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1976-03-29</geburtstag>
+    <adresse1>Uleeci Avenue</adresse1>
+    <adresse2>56</adresse2>
+    <adresse3>Jibzuhot</adresse3>
+    <adresse4>95232</adresse4>
+    <vereinsnr>21</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Ella Lambert</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>143</mitglnr>
+    <name>Adam Fisher</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1967-10-24</geburtstag>
+    <adresse1>Ozveg Path</adresse1>
+    <adresse2>59</adresse2>
+    <adresse3>Peruru</adresse3>
+    <adresse4>50443</adresse4>
+    <vereinsnr>44</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Adam Fisher</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>144</mitglnr>
+    <name>Francis Estrada</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1976-07-09</geburtstag>
+    <adresse1>Cugvij Loop</adresse1>
+    <adresse2>65</adresse2>
+    <adresse3>Nodmigoz</adresse3>
+    <adresse4>41368</adresse4>
+    <vereinsnr>40</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Francis Estrada</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>145</mitglnr>
+    <name>Dora Simpson</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1994-08-03</geburtstag>
+    <adresse1>Voraz Turnpike</adresse1>
+    <adresse2>53</adresse2>
+    <adresse3>Kokfigor</adresse3>
+    <adresse4>57478</adresse4>
+    <vereinsnr>71</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Dora Simpson</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>146</mitglnr>
+    <name>Carrie Parsons</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1968-04-06</geburtstag>
+    <adresse1>Uzlat Way</adresse1>
+    <adresse2>65</adresse2>
+    <adresse3>Sezwoflol</adresse3>
+    <adresse4>58607</adresse4>
+    <vereinsnr>80</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Carrie Parsons</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>147</mitglnr>
+    <name>Kathryn Jensen</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1973-04-15</geburtstag>
+    <adresse1>Meeli View</adresse1>
+    <adresse2>59</adresse2>
+    <adresse3>Rakcezzaz</adresse3>
+    <adresse4>11256</adresse4>
+    <vereinsnr>93</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Kathryn Jensen</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>148</mitglnr>
+    <name>Douglas Nunez</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1959-12-21</geburtstag>
+    <adresse1>Rozkin Place</adresse1>
+    <adresse2>19</adresse2>
+    <adresse3>Zejvadmal</adresse3>
+    <adresse4>6728</adresse4>
+    <vereinsnr>38</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Douglas Nunez</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>149</mitglnr>
+    <name>Stephen McKinney</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1989-08-19</geburtstag>
+    <adresse1>Ojwe Path</adresse1>
+    <adresse2>45</adresse2>
+    <adresse3>Fuhotni</adresse3>
+    <adresse4>43670</adresse4>
+    <vereinsnr>9</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Stephen McKinney</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>150</mitglnr>
+    <name>Lettie Hughes</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1961-07-29</geburtstag>
+    <adresse1>Muvgog Path</adresse1>
+    <adresse2>21</adresse2>
+    <adresse3>Vapiriru</adresse3>
+    <adresse4>57658</adresse4>
+    <vereinsnr>65</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Lettie Hughes</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>151</mitglnr>
+    <name>Louise Townsend</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1993-10-02</geburtstag>
+    <adresse1>Dojro Circle</adresse1>
+    <adresse2>50</adresse2>
+    <adresse3>Kujrakaz</adresse3>
+    <adresse4>96213</adresse4>
+    <vereinsnr>73</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Louise Townsend</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>152</mitglnr>
+    <name>Mario Jimenez</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1958-10-19</geburtstag>
+    <adresse1>Wuem Boulevard</adresse1>
+    <adresse2>27</adresse2>
+    <adresse3>Lifimov</adresse3>
+    <adresse4>2915</adresse4>
+    <vereinsnr>94</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Mario Jimenez</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>153</mitglnr>
+    <name>Lora Stokes</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1988-01-14</geburtstag>
+    <adresse1>Horsa Loop</adresse1>
+    <adresse2>22</adresse2>
+    <adresse3>Vetoprep</adresse3>
+    <adresse4>80215</adresse4>
+    <vereinsnr>59</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Lora Stokes</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>154</mitglnr>
+    <name>Eliza Olson</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1995-05-07</geburtstag>
+    <adresse1>Munju Place</adresse1>
+    <adresse2>51</adresse2>
+    <adresse3>Wibewico</adresse3>
+    <adresse4>67256</adresse4>
+    <vereinsnr>54</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Eliza Olson</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>155</mitglnr>
+    <name>Blanche Johnston</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1995-04-13</geburtstag>
+    <adresse1>Ikjo Lane</adresse1>
+    <adresse2>44</adresse2>
+    <adresse3>Nuhvewpa</adresse3>
+    <adresse4>16790</adresse4>
+    <vereinsnr>15</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Blanche Johnston</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>156</mitglnr>
+    <name>Scott Ellis</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1971-10-21</geburtstag>
+    <adresse1>Izole Drive</adresse1>
+    <adresse2>47</adresse2>
+    <adresse3>Guezihag</adresse3>
+    <adresse4>42535</adresse4>
+    <vereinsnr>74</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Scott Ellis</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>157</mitglnr>
+    <name>Devin Robinson</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1978-12-16</geburtstag>
+    <adresse1>Huler Ridge</adresse1>
+    <adresse2>40</adresse2>
+    <adresse3>Zitihuh</adresse3>
+    <adresse4>61273</adresse4>
+    <vereinsnr>34</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Devin Robinson</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>158</mitglnr>
+    <name>Lillie Fernandez</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1968-09-20</geburtstag>
+    <adresse1>Gaguj Heights</adresse1>
+    <adresse2>37</adresse2>
+    <adresse3>Jeheve</adresse3>
+    <adresse4>62433</adresse4>
+    <vereinsnr>4</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Lillie Fernandez</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>159</mitglnr>
+    <name>Steven Harrison</name>
+    <geschlecht></geschlecht>
+    <geburtstag>2004-12-30</geburtstag>
+    <adresse1>Vufluw Terrace</adresse1>
+    <adresse2>42</adresse2>
+    <adresse3>Ticulto</adresse3>
+    <adresse4>10435</adresse4>
+    <vereinsnr>71</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Steven Harrison</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>160</mitglnr>
+    <name>Mollie Weaver</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1989-08-30</geburtstag>
+    <adresse1>Davji Turnpike</adresse1>
+    <adresse2>56</adresse2>
+    <adresse3>Altekdi</adresse3>
+    <adresse4>76170</adresse4>
+    <vereinsnr>72</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Mollie Weaver</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>161</mitglnr>
+    <name>Martin Castro</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1961-08-31</geburtstag>
+    <adresse1>Zojlat Key</adresse1>
+    <adresse2>62</adresse2>
+    <adresse3>Buhogog</adresse3>
+    <adresse4>65534</adresse4>
+    <vereinsnr>14</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Martin Castro</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>162</mitglnr>
+    <name>Earl Webster</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1977-04-22</geburtstag>
+    <adresse1>Alibe Park</adresse1>
+    <adresse2>44</adresse2>
+    <adresse3>Esuzeovu</adresse3>
+    <adresse4>57386</adresse4>
+    <vereinsnr>80</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Earl Webster</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>163</mitglnr>
+    <name>Amanda Glover</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1977-11-06</geburtstag>
+    <adresse1>Fuvu Road</adresse1>
+    <adresse2>24</adresse2>
+    <adresse3>Ijcicoj</adresse3>
+    <adresse4>22054</adresse4>
+    <vereinsnr>14</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Amanda Glover</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>164</mitglnr>
+    <name>Paul Henderson</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>2005-05-28</geburtstag>
+    <adresse1>Fukfu View</adresse1>
+    <adresse2>50</adresse2>
+    <adresse3>Zajbikkan</adresse3>
+    <adresse4>80065</adresse4>
+    <vereinsnr>86</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Paul Henderson</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>165</mitglnr>
+    <name>Christopher Joseph</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1967-06-22</geburtstag>
+    <adresse1>Asiba Heights</adresse1>
+    <adresse2>30</adresse2>
+    <adresse3>Peutegir</adresse3>
+    <adresse4>29985</adresse4>
+    <vereinsnr>30</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Christopher Joseph</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>166</mitglnr>
+    <name>Micheal Mullins</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1999-12-08</geburtstag>
+    <adresse1>Javzef Point</adresse1>
+    <adresse2>55</adresse2>
+    <adresse3>Zoalga</adresse3>
+    <adresse4>73121</adresse4>
+    <vereinsnr>52</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Micheal Mullins</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>167</mitglnr>
+    <name>Jared Rose</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1988-10-23</geburtstag>
+    <adresse1>Fafbes Way</adresse1>
+    <adresse2>26</adresse2>
+    <adresse3>Mihegza</adresse3>
+    <adresse4></adresse4>
+    <vereinsnr>19</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Jared Rose</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>168</mitglnr>
+    <name>Alice Tran</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1972-12-11</geburtstag>
+    <adresse1>Zesasa Center</adresse1>
+    <adresse2>47</adresse2>
+    <adresse3>Henrotona</adresse3>
+    <adresse4>14763</adresse4>
+    <vereinsnr>63</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Alice Tran</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>169</mitglnr>
+    <name>Bernice Hunter</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1969-12-29</geburtstag>
+    <adresse1>Lesev Path</adresse1>
+    <adresse2>43</adresse2>
+    <adresse3>Mojapa</adresse3>
+    <adresse4>94381</adresse4>
+    <vereinsnr>6</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Bernice Hunter</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>170</mitglnr>
+    <name>Katie Gonzalez</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1985-01-13</geburtstag>
+    <adresse1>Rare Trail</adresse1>
+    <adresse2>19</adresse2>
+    <adresse3>Porsidreh</adresse3>
+    <adresse4>28735</adresse4>
+    <vereinsnr>72</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Katie Gonzalez</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>171</mitglnr>
+    <name>Sadie McKinney</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1965-03-08</geburtstag>
+    <adresse1>Liroso Glen</adresse1>
+    <adresse2>52</adresse2>
+    <adresse3>Nezebusih</adresse3>
+    <adresse4>26796</adresse4>
+    <vereinsnr>100</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Sadie McKinney</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>172</mitglnr>
+    <name>Hilda James</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1993-02-11</geburtstag>
+    <adresse1>Hutemu Highway</adresse1>
+    <adresse2>46</adresse2>
+    <adresse3>Lajebu</adresse3>
+    <adresse4>47916</adresse4>
+    <vereinsnr>67</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Hilda James</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>173</mitglnr>
+    <name>Leona Parks</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1972-04-01</geburtstag>
+    <adresse1>Uhufo Lane</adresse1>
+    <adresse2>21</adresse2>
+    <adresse3>Rucavofeb</adresse3>
+    <adresse4>82562</adresse4>
+    <vereinsnr>81</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Leona Parks</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>174</mitglnr>
+    <name>Katie Padilla</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1990-10-01</geburtstag>
+    <adresse1>Ladja Ridge</adresse1>
+    <adresse2>26</adresse2>
+    <adresse3>Codumcic</adresse3>
+    <adresse4>71905</adresse4>
+    <vereinsnr>31</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Katie Padilla</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>175</mitglnr>
+    <name>Hattie Spencer</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1992-12-15</geburtstag>
+    <adresse1>Zipne Key</adresse1>
+    <adresse2>37</adresse2>
+    <adresse3>Namuadu</adresse3>
+    <adresse4>33829</adresse4>
+    <vereinsnr>62</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Hattie Spencer</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>176</mitglnr>
+    <name>Harold Poole</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1969-02-26</geburtstag>
+    <adresse1>Kodton River</adresse1>
+    <adresse2>27</adresse2>
+    <adresse3>Wewasogo</adresse3>
+    <adresse4>61113</adresse4>
+    <vereinsnr>65</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Harold Poole</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>177</mitglnr>
+    <name>Mattie Carlson</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1999-02-11</geburtstag>
+    <adresse1>Haklih Avenue</adresse1>
+    <adresse2>57</adresse2>
+    <adresse3>Abafifa</adresse3>
+    <adresse4>11009</adresse4>
+    <vereinsnr>51</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Mattie Carlson</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>178</mitglnr>
+    <name>Juan Vargas</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1978-08-08</geburtstag>
+    <adresse1>Wufvij Square</adresse1>
+    <adresse2>38</adresse2>
+    <adresse3>Mutahev</adresse3>
+    <adresse4>42628</adresse4>
+    <vereinsnr>39</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Juan Vargas</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>179</mitglnr>
+    <name>Melvin Schneider</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1974-07-17</geburtstag>
+    <adresse1>Hejwap Grove</adresse1>
+    <adresse2>25</adresse2>
+    <adresse3>Acajudebo</adresse3>
+    <adresse4>57956</adresse4>
+    <vereinsnr>46</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Melvin Schneider</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>180</mitglnr>
+    <name>Garrett Estrada</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1980-02-09</geburtstag>
+    <adresse1>Weji Way</adresse1>
+    <adresse2>33</adresse2>
+    <adresse3>Kijonafu</adresse3>
+    <adresse4>82727</adresse4>
+    <vereinsnr>7</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Garrett Estrada</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>181</mitglnr>
+    <name>Jordan Allen</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1998-04-26</geburtstag>
+    <adresse1>Ahuko Glen</adresse1>
+    <adresse2>30</adresse2>
+    <adresse3>Benumeuba</adresse3>
+    <adresse4>54895</adresse4>
+    <vereinsnr>94</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Jordan Allen</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>182</mitglnr>
+    <name>Beatrice Smith</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1981-06-19</geburtstag>
+    <adresse1>Jaga Point</adresse1>
+    <adresse2>37</adresse2>
+    <adresse3>Fubgalwes</adresse3>
+    <adresse4>82068</adresse4>
+    <vereinsnr>62</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Beatrice Smith</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>183</mitglnr>
+    <name>Stanley Cruz</name>
+    <geschlecht></geschlecht>
+    <geburtstag>2000-03-31</geburtstag>
+    <adresse1>Zebnaz Path</adresse1>
+    <adresse2>32</adresse2>
+    <adresse3></adresse3>
+    <adresse4>15505</adresse4>
+    <vereinsnr>13</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Stanley Cruz</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>184</mitglnr>
+    <name>Nora Meyer</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1987-07-08</geburtstag>
+    <adresse1>Zotzic Parkway</adresse1>
+    <adresse2>31</adresse2>
+    <adresse3>Vamokdi</adresse3>
+    <adresse4>2595</adresse4>
+    <vereinsnr>12</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Nora Meyer</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>185</mitglnr>
+    <name>Walter Chavez</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1972-09-02</geburtstag>
+    <adresse1>Mitbu Pike</adresse1>
+    <adresse2>30</adresse2>
+    <adresse3>Iwofuwa</adresse3>
+    <adresse4>93354</adresse4>
+    <vereinsnr>28</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Walter Chavez</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>186</mitglnr>
+    <name>Hettie Caldwell</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1998-05-30</geburtstag>
+    <adresse1>Wugeg Pass</adresse1>
+    <adresse2>59</adresse2>
+    <adresse3>Babufa</adresse3>
+    <adresse4>80108</adresse4>
+    <vereinsnr>40</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Hettie Caldwell</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>187</mitglnr>
+    <name>Lawrence Harper</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1965-01-25</geburtstag>
+    <adresse1>Wegzu Pike</adresse1>
+    <adresse2>29</adresse2>
+    <adresse3>Foguslo</adresse3>
+    <adresse4>9987</adresse4>
+    <vereinsnr>33</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Lawrence Harper</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>188</mitglnr>
+    <name>Phillip Obrien</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1994-02-19</geburtstag>
+    <adresse1>Ravpop Path</adresse1>
+    <adresse2>62</adresse2>
+    <adresse3>Tuvuoci</adresse3>
+    <adresse4>68282</adresse4>
+    <vereinsnr>69</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Phillip Obrien</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>189</mitglnr>
+    <name>Eula Reynolds</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1960-03-28</geburtstag>
+    <adresse1>Pija Pike</adresse1>
+    <adresse2>25</adresse2>
+    <adresse3>Etasele</adresse3>
+    <adresse4>56026</adresse4>
+    <vereinsnr>95</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Eula Reynolds</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>190</mitglnr>
+    <name>Tillie Griffin</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1977-08-14</geburtstag>
+    <adresse1>Witpuc Highway</adresse1>
+    <adresse2>63</adresse2>
+    <adresse3>Suihci</adresse3>
+    <adresse4>20539</adresse4>
+    <vereinsnr>9</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Tillie Griffin</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>191</mitglnr>
+    <name>Matilda Thornton</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1990-08-18</geburtstag>
+    <adresse1>Vawjed Point</adresse1>
+    <adresse2>22</adresse2>
+    <adresse3>Mobatraw</adresse3>
+    <adresse4>84680</adresse4>
+    <vereinsnr>98</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Matilda Thornton</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>192</mitglnr>
+    <name>Jose McCormick</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1996-08-04</geburtstag>
+    <adresse1>Niksug Mill</adresse1>
+    <adresse2>45</adresse2>
+    <adresse3>Mokidhi</adresse3>
+    <adresse4>1364</adresse4>
+    <vereinsnr>52</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Jose McCormick</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>193</mitglnr>
+    <name>Isabel Ramos</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1977-08-18</geburtstag>
+    <adresse1>Sook Court</adresse1>
+    <adresse2>36</adresse2>
+    <adresse3>Gozagoin</adresse3>
+    <adresse4>98019</adresse4>
+    <vereinsnr>3</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Isabel Ramos</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>194</mitglnr>
+    <name>Jayden Norton</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1964-10-03</geburtstag>
+    <adresse1>Tejave Circle</adresse1>
+    <adresse2>23</adresse2>
+    <adresse3>Kizhuru</adresse3>
+    <adresse4>47728</adresse4>
+    <vereinsnr>69</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Jayden Norton</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>195</mitglnr>
+    <name>Kenneth Marshall</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1960-03-19</geburtstag>
+    <adresse1>Betu Lane</adresse1>
+    <adresse2>50</adresse2>
+    <adresse3>Iftaifu</adresse3>
+    <adresse4>34810</adresse4>
+    <vereinsnr>79</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Kenneth Marshall</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>196</mitglnr>
+    <name>Augusta Moran</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1977-09-13</geburtstag>
+    <adresse1>Hihso Avenue</adresse1>
+    <adresse2>45</adresse2>
+    <adresse3>Joazofo</adresse3>
+    <adresse4>57270</adresse4>
+    <vereinsnr>26</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Augusta Moran</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>197</mitglnr>
+    <name>Corey Bryant</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1980-05-25</geburtstag>
+    <adresse1>Wafah Extension</adresse1>
+    <adresse2>39</adresse2>
+    <adresse3>Zisizmiw</adresse3>
+    <adresse4>75476</adresse4>
+    <vereinsnr>21</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Corey Bryant</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>198</mitglnr>
+    <name>Pearl Malone</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1965-09-02</geburtstag>
+    <adresse1>Rujilo Trail</adresse1>
+    <adresse2>61</adresse2>
+    <adresse3>Wullomi</adresse3>
+    <adresse4>23092</adresse4>
+    <vereinsnr>21</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Pearl Malone</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>199</mitglnr>
+    <name>Jean Erickson</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1994-09-28</geburtstag>
+    <adresse1>Ikro River</adresse1>
+    <adresse2>45</adresse2>
+    <adresse3>Heruati</adresse3>
+    <adresse4>71329</adresse4>
+    <vereinsnr>55</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Jean Erickson</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>200</mitglnr>
+    <name>Larry Rodriguez</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1979-12-30</geburtstag>
+    <adresse1>Gakgu Park</adresse1>
+    <adresse2>23</adresse2>
+    <adresse3>Iwsicij</adresse3>
+    <adresse4>68793</adresse4>
+    <vereinsnr>43</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Larry Rodriguez</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>201</mitglnr>
+    <name>Rebecca Morris</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1970-06-12</geburtstag>
+    <adresse1>Sadode Boulevard</adresse1>
+    <adresse2>34</adresse2>
+    <adresse3>Kosnovzot</adresse3>
+    <adresse4>45926</adresse4>
+    <vereinsnr>7</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Rebecca Morris</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>202</mitglnr>
+    <name>Harvey Todd</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1997-08-06</geburtstag>
+    <adresse1>Jajim Square</adresse1>
+    <adresse2>22</adresse2>
+    <adresse3>Nadorvot</adresse3>
+    <adresse4>18985</adresse4>
+    <vereinsnr>63</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Harvey Todd</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>203</mitglnr>
+    <name>Flora Klein</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1986-09-10</geburtstag>
+    <adresse1>Zulhes Junction</adresse1>
+    <adresse2>41</adresse2>
+    <adresse3>Hoviic</adresse3>
+    <adresse4>29164</adresse4>
+    <vereinsnr>39</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Flora Klein</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>204</mitglnr>
+    <name>Travis Buchanan</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1994-07-06</geburtstag>
+    <adresse1>Zete Square</adresse1>
+    <adresse2>18</adresse2>
+    <adresse3>Jonkicdeh</adresse3>
+    <adresse4>37834</adresse4>
+    <vereinsnr>43</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Travis Buchanan</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>205</mitglnr>
+    <name>Ruth Sanchez</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1998-11-30</geburtstag>
+    <adresse1>Leniju Extension</adresse1>
+    <adresse2>19</adresse2>
+    <adresse3>Doatvub</adresse3>
+    <adresse4>18762</adresse4>
+    <vereinsnr>66</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Ruth Sanchez</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>206</mitglnr>
+    <name>Gerald Sullivan</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1966-01-27</geburtstag>
+    <adresse1>Doro Way</adresse1>
+    <adresse2>43</adresse2>
+    <adresse3>Capupvep</adresse3>
+    <adresse4>49776</adresse4>
+    <vereinsnr>47</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Gerald Sullivan</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>207</mitglnr>
+    <name>Phillip Barker</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1986-12-23</geburtstag>
+    <adresse1>Okiut Drive</adresse1>
+    <adresse2>53</adresse2>
+    <adresse3>Uwroku</adresse3>
+    <adresse4>68511</adresse4>
+    <vereinsnr>70</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Phillip Barker</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>208</mitglnr>
+    <name>Ellen Erickson</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>2005-04-26</geburtstag>
+    <adresse1>Teat Place</adresse1>
+    <adresse2>62</adresse2>
+    <adresse3>Zedaaz</adresse3>
+    <adresse4>97271</adresse4>
+    <vereinsnr>84</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Ellen Erickson</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>209</mitglnr>
+    <name>Leonard Mendoza</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1979-10-01</geburtstag>
+    <adresse1>Pajvuv Parkway</adresse1>
+    <adresse2>48</adresse2>
+    <adresse3>Utiedtun</adresse3>
+    <adresse4>70460</adresse4>
+    <vereinsnr>70</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Leonard Mendoza</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>210</mitglnr>
+    <name>Fannie McKinney</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1979-07-31</geburtstag>
+    <adresse1>Pubil Plaza</adresse1>
+    <adresse2>29</adresse2>
+    <adresse3>Oguuwve</adresse3>
+    <adresse4>18576</adresse4>
+    <vereinsnr>90</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Fannie McKinney</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>211</mitglnr>
+    <name>Hettie Schultz</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1959-05-10</geburtstag>
+    <adresse1>Gecfac Loop</adresse1>
+    <adresse2>45</adresse2>
+    <adresse3>Ipbalor</adresse3>
+    <adresse4>16917</adresse4>
+    <vereinsnr>44</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Hettie Schultz</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>212</mitglnr>
+    <name>Isaac Aguilar</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1959-09-25</geburtstag>
+    <adresse1>Jupra Junction</adresse1>
+    <adresse2>61</adresse2>
+    <adresse3>Cilistir</adresse3>
+    <adresse4>71488</adresse4>
+    <vereinsnr>84</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Isaac Aguilar</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>213</mitglnr>
+    <name>Henrietta Nichols</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1967-05-31</geburtstag>
+    <adresse1>Lucaku Plaza</adresse1>
+    <adresse2>49</adresse2>
+    <adresse3>Okijdo</adresse3>
+    <adresse4>94152</adresse4>
+    <vereinsnr>6</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Henrietta Nichols</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>214</mitglnr>
+    <name>Isaiah Summers</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1964-05-12</geburtstag>
+    <adresse1>Immu Junction</adresse1>
+    <adresse2>27</adresse2>
+    <adresse3>Niegula</adresse3>
+    <adresse4>10735</adresse4>
+    <vereinsnr>18</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Isaiah Summers</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>215</mitglnr>
+    <name>Chris Dawson</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1966-05-22</geburtstag>
+    <adresse1>Hagro Ridge</adresse1>
+    <adresse2>52</adresse2>
+    <adresse3>Cuhodku</adresse3>
+    <adresse4>40491</adresse4>
+    <vereinsnr>29</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Chris Dawson</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>216</mitglnr>
+    <name>Corey Welch</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1980-09-07</geburtstag>
+    <adresse1>Gerob Plaza</adresse1>
+    <adresse2>37</adresse2>
+    <adresse3>Mefhucofa</adresse3>
+    <adresse4>52361</adresse4>
+    <vereinsnr>84</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Corey Welch</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>217</mitglnr>
+    <name>Eugene Lindsey</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1991-08-19</geburtstag>
+    <adresse1>Satok River</adresse1>
+    <adresse2>31</adresse2>
+    <adresse3>Nidekej</adresse3>
+    <adresse4>52895</adresse4>
+    <vereinsnr>46</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Eugene Lindsey</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>218</mitglnr>
+    <name>Corey Jensen</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1993-04-13</geburtstag>
+    <adresse1>Onokec Center</adresse1>
+    <adresse2>27</adresse2>
+    <adresse3>Lopiwow</adresse3>
+    <adresse4>25730</adresse4>
+    <vereinsnr>56</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Corey Jensen</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>219</mitglnr>
+    <name>Myra Campbell</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1983-06-11</geburtstag>
+    <adresse1>Asjur Lane</adresse1>
+    <adresse2>36</adresse2>
+    <adresse3>Zanufgef</adresse3>
+    <adresse4>28375</adresse4>
+    <vereinsnr>56</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Myra Campbell</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>220</mitglnr>
+    <name>Jesus Osborne</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1976-01-25</geburtstag>
+    <adresse1></adresse1>
+    <adresse2>27</adresse2>
+    <adresse3></adresse3>
+    <adresse4>59495</adresse4>
+    <vereinsnr>52</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Jesus Osborne</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>221</mitglnr>
+    <name>Gerald Wagner</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1985-04-03</geburtstag>
+    <adresse1>Vedew Manor</adresse1>
+    <adresse2>28</adresse2>
+    <adresse3>Wahjohgoz</adresse3>
+    <adresse4>36861</adresse4>
+    <vereinsnr>32</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Gerald Wagner</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>222</mitglnr>
+    <name>Glen Taylor</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>2001-04-16</geburtstag>
+    <adresse1>Ruobu Plaza</adresse1>
+    <adresse2>20</adresse2>
+    <adresse3>Hocdanihu</adresse3>
+    <adresse4>57197</adresse4>
+    <vereinsnr>74</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Glen Taylor</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>223</mitglnr>
+    <name>Jesus Cole</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>2003-08-02</geburtstag>
+    <adresse1>Codha Point</adresse1>
+    <adresse2>56</adresse2>
+    <adresse3>Dejagkam</adresse3>
+    <adresse4>6093</adresse4>
+    <vereinsnr>89</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Jesus Cole</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>224</mitglnr>
+    <name>Dale Jordan</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1958-12-17</geburtstag>
+    <adresse1>Zapba Loop</adresse1>
+    <adresse2>35</adresse2>
+    <adresse3>Rusuwi</adresse3>
+    <adresse4>56730</adresse4>
+    <vereinsnr>94</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Dale Jordan</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>225</mitglnr>
+    <name>Victor Diaz</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1976-11-20</geburtstag>
+    <adresse1>Acwin Street</adresse1>
+    <adresse2>32</adresse2>
+    <adresse3>Jadavwat</adresse3>
+    <adresse4>82837</adresse4>
+    <vereinsnr>91</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Victor Diaz</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>226</mitglnr>
+    <name>Theresa Cannon</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1989-07-20</geburtstag>
+    <adresse1>Sadej View</adresse1>
+    <adresse2>30</adresse2>
+    <adresse3>Bawliip</adresse3>
+    <adresse4>25614</adresse4>
+    <vereinsnr>97</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Theresa Cannon</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>227</mitglnr>
+    <name>Lida Brooks</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1971-11-27</geburtstag>
+    <adresse1>Jestic Square</adresse1>
+    <adresse2>23</adresse2>
+    <adresse3>Bubebo</adresse3>
+    <adresse4>64358</adresse4>
+    <vereinsnr>46</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Lida Brooks</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>228</mitglnr>
+    <name>Ophelia Pearson</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1965-08-01</geburtstag>
+    <adresse1>Urga Grove</adresse1>
+    <adresse2>24</adresse2>
+    <adresse3>Jurabma</adresse3>
+    <adresse4>49682</adresse4>
+    <vereinsnr>76</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Ophelia Pearson</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>229</mitglnr>
+    <name>Laura Medina</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1996-07-24</geburtstag>
+    <adresse1>Akola Key</adresse1>
+    <adresse2>41</adresse2>
+    <adresse3>Vakizuda</adresse3>
+    <adresse4>95571</adresse4>
+    <vereinsnr>59</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Laura Medina</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>230</mitglnr>
+    <name>Nancy Saunders</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1983-11-06</geburtstag>
+    <adresse1>Zibom Mill</adresse1>
+    <adresse2>47</adresse2>
+    <adresse3>Hethubare</adresse3>
+    <adresse4>81219</adresse4>
+    <vereinsnr>28</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Nancy Saunders</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>231</mitglnr>
+    <name>Grace Holmes</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1996-04-11</geburtstag>
+    <adresse1>Suzod Place</adresse1>
+    <adresse2>57</adresse2>
+    <adresse3>Kusgurad</adresse3>
+    <adresse4>46867</adresse4>
+    <vereinsnr>17</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Grace Holmes</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>232</mitglnr>
+    <name>Cynthia Douglas</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1963-05-25</geburtstag>
+    <adresse1>Hinoda Road</adresse1>
+    <adresse2>20</adresse2>
+    <adresse3>Moumufu</adresse3>
+    <adresse4>46195</adresse4>
+    <vereinsnr>14</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Cynthia Douglas</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>233</mitglnr>
+    <name>Harry Wilkins</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1979-05-10</geburtstag>
+    <adresse1>Nujsan Place</adresse1>
+    <adresse2>42</adresse2>
+    <adresse3>Gahatin</adresse3>
+    <adresse4>56161</adresse4>
+    <vereinsnr>23</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Harry Wilkins</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>234</mitglnr>
+    <name>Louise Simmons</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1984-10-28</geburtstag>
+    <adresse1>Wopco Parkway</adresse1>
+    <adresse2>42</adresse2>
+    <adresse3>Zukufefo</adresse3>
+    <adresse4>15385</adresse4>
+    <vereinsnr>63</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Louise Simmons</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>235</mitglnr>
+    <name>Dustin Fuller</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1995-09-21</geburtstag>
+    <adresse1>Posale Drive</adresse1>
+    <adresse2>55</adresse2>
+    <adresse3>Ceraopi</adresse3>
+    <adresse4>74510</adresse4>
+    <vereinsnr>29</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Dustin Fuller</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>236</mitglnr>
+    <name>Louisa Hernandez</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>2003-03-12</geburtstag>
+    <adresse1>Fofzut Square</adresse1>
+    <adresse2>49</adresse2>
+    <adresse3>Bicijrej</adresse3>
+    <adresse4>70392</adresse4>
+    <vereinsnr>32</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Louisa Hernandez</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>237</mitglnr>
+    <name>Evan Barnett</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1966-06-01</geburtstag>
+    <adresse1>Keve Manor</adresse1>
+    <adresse2>19</adresse2>
+    <adresse3>Butemumu</adresse3>
+    <adresse4>61388</adresse4>
+    <vereinsnr>94</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Evan Barnett</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>238</mitglnr>
+    <name>Flora Fuller</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1975-07-29</geburtstag>
+    <adresse1>Apcew Manor</adresse1>
+    <adresse2>50</adresse2>
+    <adresse3>Zaveguda</adresse3>
+    <adresse4>35633</adresse4>
+    <vereinsnr>56</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Flora Fuller</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>239</mitglnr>
+    <name>Olga Strickland</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1959-01-21</geburtstag>
+    <adresse1>Sirhoc Lane</adresse1>
+    <adresse2>43</adresse2>
+    <adresse3>Ogabezla</adresse3>
+    <adresse4>31164</adresse4>
+    <vereinsnr>50</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Olga Strickland</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>240</mitglnr>
+    <name>Tillie Sutton</name>
+    <geschlecht>maennlich</geschlecht>
+    <geburtstag>1983-03-29</geburtstag>
+    <adresse1>Compe Key</adresse1>
+    <adresse2>52</adresse2>
+    <adresse3>Cisiro</adresse3>
+    <adresse4>25196</adresse4>
+    <vereinsnr>24</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Tillie Sutton</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>241</mitglnr>
+    <name>Vernon Newman</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1993-05-03</geburtstag>
+    <adresse1>Hico Circle</adresse1>
+    <adresse2>58</adresse2>
+    <adresse3>Uwedekpe</adresse3>
+    <adresse4>70523</adresse4>
+    <vereinsnr>27</vereinsnr>
+    <position>mitglied</position>
+    <name_kopie>Vernon Newman</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>242</mitglnr>
+    <name>Ricky Lyons</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1996-04-02</geburtstag>
+    <adresse1>Tezpo Extension</adresse1>
+    <adresse2>29</adresse2>
+    <adresse3>Mekaha</adresse3>
+    <adresse4>3991</adresse4>
+    <vereinsnr>51</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Ricky Lyons</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>243</mitglnr>
+    <name>Teresa Roy</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1993-02-18</geburtstag>
+    <adresse1>Biilu Turnpike</adresse1>
+    <adresse2>53</adresse2>
+    <adresse3>Pasawiti</adresse3>
+    <adresse4>1152</adresse4>
+    <vereinsnr>96</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Teresa Roy</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>244</mitglnr>
+    <name>Trevor Davidson</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>2002-04-28</geburtstag>
+    <adresse1>Silcuf Path</adresse1>
+    <adresse2>18</adresse2>
+    <adresse3>Zecanlut</adresse3>
+    <adresse4>18382</adresse4>
+    <vereinsnr>15</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Trevor Davidson</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>245</mitglnr>
+    <name>Theodore Rowe</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1981-06-03</geburtstag>
+    <adresse1>Pemeh Way</adresse1>
+    <adresse2>30</adresse2>
+    <adresse3>Uzjonumo</adresse3>
+    <adresse4>27538</adresse4>
+    <vereinsnr>57</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Theodore Rowe</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>246</mitglnr>
+    <name>Madge Watts</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1994-07-21</geburtstag>
+    <adresse1>Tihwe Heights</adresse1>
+    <adresse2>24</adresse2>
+    <adresse3>Ceivneh</adresse3>
+    <adresse4>12956</adresse4>
+    <vereinsnr>81</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Madge Watts</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>247</mitglnr>
+    <name>Connor Page</name>
+    <geschlecht>w</geschlecht>
+    <geburtstag>1999-07-04</geburtstag>
+    <adresse1>Ilvur Heights</adresse1>
+    <adresse2>60</adresse2>
+    <adresse3>Voluphe</adresse3>
+    <adresse4>42933</adresse4>
+    <vereinsnr>77</vereinsnr>
+    <position>schriftfuehrer</position>
+    <name_kopie>Connor Page</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>248</mitglnr>
+    <name>Luella Parker</name>
+    <geschlecht>weiblich</geschlecht>
+    <geburtstag>1974-10-17</geburtstag>
+    <adresse1>Efmu Extension</adresse1>
+    <adresse2>48</adresse2>
+    <adresse3>Votedatiw</adresse3>
+    <adresse4>94667</adresse4>
+    <vereinsnr>67</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Luella Parker</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>249</mitglnr>
+    <name>Theodore Santiago</name>
+    <geschlecht>m</geschlecht>
+    <geburtstag>1976-02-13</geburtstag>
+    <adresse1>Adzul Key</adresse1>
+    <adresse2>47</adresse2>
+    <adresse3>Vohumi</adresse3>
+    <adresse4>63999</adresse4>
+    <vereinsnr>11</vereinsnr>
+    <position>trainer</position>
+    <name_kopie>Theodore Santiago</name_kopie>
+  </mitglied>
+  <mitglied>
+    <mitglnr>250</mitglnr>
+    <name>Rodney Nelson</name>
+    <geschlecht></geschlecht>
+    <geburtstag>1999-12-07</geburtstag>
+    <adresse1>Zisno Square</adresse1>
+    <adresse2>29</adresse2>
+    <adresse3>Piiwmu</adresse3>
+    <adresse4>55801</adresse4>
+    <vereinsnr>92</vereinsnr>
+    <position>vorstand</position>
+    <name_kopie>Rodney Nelson</name_kopie>
+  </mitglied>
+</vereinsverwaltung>
