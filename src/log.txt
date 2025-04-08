@@ -1,7 +1,24 @@
 
 User entered path: ../test_data/
 Reading file verein1.csv...
+Value '???' in column hausnr at row 89 in file verein1.csv does not match expected type int
+Row 89 in file verein1.csv removed by user.
+Value '.' in column hausnr at row 106 in file verein1.csv does not match expected type int
+Row 106 in file verein1.csv removed by user.
+Value '-' in column hausnr at row 133 in file verein1.csv does not match expected type int
+Row 133 in file verein1.csv removed by user.
+Value 'aaaaa' in column plz at row 15 in file verein1.csv does not match expected type int
+Row 15 in file verein1.csv removed by user.
 Reading file verein3.xml...
 Reading file verein2.json...
+Value '2001-04-16' in column geburstdatum at row 58 in file verein2.json does not match expected type datetime_DMY_.
+Value 'piasfdoiajshfiha' inserted into column geburstdatum at row 58 in file verein2.json by user.
+Value 'piasfdoiajshfiha' in column geburstdatum at row 58 in file verein2.json does not match expected type datetime_DMY_.
+Value '16.04.2001' inserted into column geburstdatum at row 58 in file verein2.json by user.
+Value '""' in column plz at row 19 in file verein2.json does not match expected type int
+Row 19 in file verein2.json removed by user.
+Value '""' in column plz at row 49 in file verein2.json does not match expected type int
+Row 49 in file verein2.json removed by user.
 Data combined successfully.
 Saving results to output.csv
+Results saved successfully.
