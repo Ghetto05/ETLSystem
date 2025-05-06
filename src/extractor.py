@@ -1,45 +1,11 @@
+import json
 import os
 import pandas as pd
 from pandas import isnull, DataFrame
 
 log_file_name = "log.txt"
-output_file_name = "output.csv"
 
-column_types = {
-    "id": "int",
-    "nr": "int",
-    "mitglnr": "int",
-    "vorname": "str",
-    "nachname": "str",
-    "name": "str",
-    "name_kopie": "str",
-    "aktiv": "str",
-    "aktivesMitglied": "str",
-    "geschlecht": "str",
-    "geburstdatum": "datetime_DMY_.",
-    "geburtstag": "datetime_YMD_-",
-    "tel": "str",
-    "email": "str",
-    "alter": "int",
-    "strasse": "str",
-    "hausnr": "int",
-    "haus": "int",
-    "stadt": "str",
-    "plz": "int",
-    "adresse1": "str",
-    "adresse2": "int",
-    "adresse3": "str",
-    "adresse4": "int",
-    "verein1": "int",
-    "verein2": "int",
-    "verein3": "int",
-    "mitgliedVereinA": "int",
-    "mitgliedVereinB": "int",
-    "vereinsnr": "int",
-    "position": "str",
-}
-
-def validate_data_types(df, file_name):
+def validate_data_types(df, file_name, column_types):
     for column, expected_type in column_types.items():
         if column in df.columns:
             for index, value in df[column].items():
@@ -115,7 +81,7 @@ def init_logger():
     file.write("")
     file.close()
 
-def extract(folder) -> DataFrame:
+def extract(folder, column_types) -> DataFrame:
     # gather references to all found files
     files = os.listdir(folder)
     csvs = [file for file in files if file.endswith('.csv')]
@@ -135,7 +101,7 @@ def extract(folder) -> DataFrame:
             # read file
             df = pd.read_csv(file_path, sep=';')
             # validate data types
-            df = validate_data_types(df, file)
+            df = validate_data_types(df, file, column_types)
             # append content to combined frame
             data_frames.append(df)
         except Exception as e:
@@ -148,7 +114,7 @@ def extract(folder) -> DataFrame:
             # read file
             df = pd.read_xml(file_path)
             # validate data types
-            df = validate_data_types(df, file)
+            df = validate_data_types(df, file, column_types)
             # append content to combined frame
             data_frames.append(df)
         except Exception as e:
@@ -162,7 +128,7 @@ def extract(folder) -> DataFrame:
             # read file
             df = pd.read_json(file_path)
             # validate data types
-            df = validate_data_types(df, file)
+            df = validate_data_types(df, file, column_types)
             # append content to combined frame
             data_frames.append(df)
         except Exception as e:
@@ -177,9 +143,9 @@ def extract(folder) -> DataFrame:
         log("No data could be combined.", True)
         raise ValueError("No data could be combined.")
 
-def save_to_csv(frame):
-    log(f"Saving results to {output_file_name}", True)
-    frame.to_csv(output_file_name, index=False, sep=';')
+def save_to_csv(frame, path):
+    log(f"Saving results to {path}", True)
+    frame.to_csv(path, index=False, sep=';')
     log("Results saved successfully.", True)
 
 def main():
@@ -198,11 +164,37 @@ def main():
 
     #endregion
 
+    #region get format file
+
+    # prompt user for format file
+    format_file = input("Please enter path to format file: ")
+    log(f"User entered format file path: {format_file}", False)
+
+    # check if format file exists
+    if not os.path.exists(format_file):
+        log("The specified format file does not exist.", False)
+        raise FileNotFoundError("The specified format file does not exist.")
+
+    # load format from file
+    with open(format_file, 'r', encoding='utf-8') as f:
+        format_data = json.load(f)
+
+    #endregion
+
+    #region format and config values
+
+    save_output_to_csv: bool = format_data['save_output_to_csv']
+    output_csv_path: str = format_data['output_csv_path']
+    column_types: dict[str, str] = format_data['column_types']
+
+    # endregion
+
     # execute extract stage
-    extracted_frame = extract(folder)
+    extracted_frame = extract(folder, column_types)
 
     # save data to csv
-    save_to_csv(extracted_frame)
+    if save_output_to_csv:
+        save_to_csv(extracted_frame, output_csv_path)
 
 if __name__ == '__main__':
     main()
