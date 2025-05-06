@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-from pandas import isnull
+from pandas import isnull, DataFrame
 
 log_file_name = "log.txt"
 output_file_name = "output.csv"
@@ -115,18 +115,7 @@ def init_logger():
     file.write("")
     file.close()
 
-def main():
-    init_logger()
-
-    # prompt user for folder
-    folder = input("Please enter path to files: ")
-    log(f"User entered path: {folder}", False)
-
-    # check if path exists
-    if not os.path.exists(folder):
-        log("The specified folder does not exist.", False)
-        raise FileNotFoundError("The specified folder does not exist.")
-
+def extract(folder) -> DataFrame:
     # gather references to all found files
     files = os.listdir(folder)
     csvs = [file for file in files if file.endswith('.csv')]
@@ -183,12 +172,36 @@ def main():
     if data_frames:
         combined_df = pd.concat(data_frames, ignore_index=True)
         log("Data combined successfully.", True)
+        return combined_df
     else:
         log("No data could be combined.", True)
-        return;
+        raise ValueError("No data could be combined.")
 
+def save_to_csv(frame):
     log(f"Saving results to {output_file_name}", True)
-    combined_df.to_csv(output_file_name, index=False, sep=';')
+    frame.to_csv(output_file_name, index=False, sep=';')
     log("Results saved successfully.", True)
+
+def main():
+    init_logger()
+
+    #region get folder and validate
+
+    # prompt user for folder
+    folder = input("Please enter path to files: ")
+    log(f"User entered path: {folder}", False)
+
+    # check if path exists
+    if not os.path.exists(folder):
+        log("The specified folder does not exist.", False)
+        raise FileNotFoundError("The specified folder does not exist.")
+
+    #endregion
+
+    # execute extract stage
+    extracted_frame = extract(folder)
+
+    # save data to csv
+    save_to_csv(extracted_frame)
 
 main()
