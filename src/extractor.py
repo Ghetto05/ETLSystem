@@ -204,4 +204,5 @@ def main():
     # save data to csv
     save_to_csv(extracted_frame)
 
-main()
+if __name__ == '__main__':
+    main()
