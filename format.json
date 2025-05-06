@@ -34,6 +34,23 @@
     "vereinsnr": "int",
     "position": "str"
   },
+  "target_frame_columns": {
+    "member_nr": "int",
+    "first_name": "str",
+    "last_name": "str",
+    "gender": "gender",
+    "age": "int",
+    "phone": "str",
+    "mail": "str",
+    "street": "str",
+    "house_nr": "int",
+    "city": "str",
+    "zip_code": "str",
+    "active": "bool",
+    "club_1": "int",
+    "club_2": "int",
+    "club_3": "int"
+  },
   "column_mapping": {
     "id": "member_nr",
     "nr": "member_nr",
@@ -42,7 +59,7 @@
     "nachname": "last_name",
     "name": "§SPLIT§ §first_name§last_name",
     "name_kopie": "§DISCARD",
-    "aktiv": "actvie",
+    "aktiv": "active",
     "aktivesMitglied": "active",
     "geschlecht": "gender",
     "geburstdatum": "§CALC§AGE§age",
