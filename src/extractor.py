@@ -186,6 +186,7 @@ def main():
     save_output_to_csv: bool = format_data['save_output_to_csv']
     output_csv_path: str = format_data['output_csv_path']
     column_types: dict[str, str] = format_data['column_types']
+    column_mapping: dict[str, str] = format_data['column_mapping']
 
     # endregion
 
