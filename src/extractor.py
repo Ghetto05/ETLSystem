@@ -45,6 +45,7 @@ def validate_data_types(df, file_name, column_types):
                         # log event
                         log(f"Value '{value}' in column {column} at row {index} in file {file_name} does not match expected type {expected_type}",False)
                         # prompt user for action
+                        # noinspection SpellCheckingInspection
                         user_input = input(
                             f"Error in file '{file_name}', column '{column}', row {index} with value '{value}'.\n"
                             f"Data type: {expected_type}\n"
@@ -84,17 +85,17 @@ def init_logger():
 def extract(folder, column_types) -> DataFrame:
     # gather references to all found files
     files = os.listdir(folder)
-    csvs = [file for file in files if file.endswith('.csv')]
-    xmls = [file for file in files if file.endswith('.xml')]
-    jsons = [file for file in files if file.endswith('.json')]
+    csv_collection = [file for file in files if file.endswith('.csv')]
+    xml_collection = [file for file in files if file.endswith('.xml')]
+    json_collection = [file for file in files if file.endswith('.json')]
 
     # do not continue if no files found
-    if not (csvs or xmls or jsons):
+    if not (csv_collection or xml_collection or json_collection):
         log("No CSV, XML, or JSON file in the specified folder.", False)
         raise ValueError("No CSV, XML, or JSON file in the specified folder.")
 
     data_frames = []
-    for file in csvs:
+    for file in csv_collection:
         file_path = os.path.join(folder, file)
         try:
             log(f"Reading file {file}...", True)
@@ -107,7 +108,7 @@ def extract(folder, column_types) -> DataFrame:
         except Exception as e:
             log(f"Could not read file {file}:\n{e}", True)
 
-    for file in xmls:
+    for file in xml_collection:
         file_path = os.path.join(folder, file)
         try:
             log(f"Reading file {file}...", True)
@@ -121,7 +122,7 @@ def extract(folder, column_types) -> DataFrame:
             log(f"Could not read file {file}: {e}", True)
 
     # load all json files
-    for file in jsons:
+    for file in json_collection:
         file_path = os.path.join(folder, file)
         try:
             log(f"Reading file {file}...", True)
