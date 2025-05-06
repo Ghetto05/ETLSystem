@@ -3,7 +3,7 @@ import os
 import pandas as pd
 from pandas import isnull, DataFrame
 
-log_file_name = "log.txt"
+log_file_path = "../log.txt"
 
 def validate_data_types(df, file_name, column_types):
     for column, expected_type in column_types.items():
@@ -70,14 +70,14 @@ def log(message, log_to_console):
     if log_to_console:
         print(message)
     # open log file, write output after new line, close files
-    f = open(log_file_name, "a")
+    f = open(log_file_path, "a")
     f.write("\n")
     f.write(message)
     f.close()
 
 def init_logger():
     # create log file
-    file = open(log_file_name, "w")
+    file = open(log_file_path, "w")
     file.write("")
     file.close()
 
