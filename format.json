@@ -41,7 +41,7 @@
     "gender": "gender",
     "age": "int",
     "phone": "str",
-    "mail": "str",
+    "mail": "mail",
     "street": "str",
     "house_nr": "int",
     "city": "str",
