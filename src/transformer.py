@@ -66,9 +66,9 @@ def preprocess_value(value, column_name, column_mapping, column_types):
     return value
 
 
-def postprocess_value(value, column_name, target_column_name, column_mapping, column_types, target_column_types):
+def postprocess_value(value, column_name, target_column_name, column_mapping, column_types, target_column_types: dict[str, str]):
     # format bools as true = 1 and false = 0
-    if target_column_types[target_column_name] == "bool":
+    if target_column_types[target_column_name].startswith("bool"):
         value = value.lower()
         if value == "true" or value == "1" or value == "yes" or value == "y" or value == "ja" or value == "j":
             return "1"
@@ -76,19 +76,17 @@ def postprocess_value(value, column_name, target_column_name, column_mapping, co
             return "0"
 
     # format gender as M, F or X
-    if target_column_types[target_column_name] == "gender":
+    if target_column_types[target_column_name].startswith("gender"):
         value = value.lower()
         if value == "m" or value == "male" or value == "männlich" or value == "maennlich":
             return "M"
         elif value == "f" or value == "female" or value == "weiblich":
             return "F"
-        elif isnull(value):
-            return None
         else:
             return "X"
 
     # omit invalid mail addresses
-    if target_column_types[target_column_name] == "mail":
+    if target_column_types[target_column_name].startswith("mail"):
         email_pattern = r"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$"
         if not match(email_pattern, value):
             return None
@@ -149,6 +147,21 @@ def transform_step(frame, value, column_name, row_index, column_mapping, colum_t
                                                                     column_mapping, colum_types, target_column_types)
 
 
+def postprocess_frame(frame: DataFrame, target_frame_columns):
+    rows_to_drop = []
+    for index, row in frame.iterrows():
+        for column, value in row.items():
+            # if required values are missing, select the row to be dropped
+            if target_frame_columns[column].endswith("§REQUIRED"):
+                if not isnull(value):
+                    continue
+                logger.log(f"Discarding row {index} because column {column} is required but missing.", False)
+                rows_to_drop.append(index)
+                break
+    # drop selected rows
+    return frame.drop(rows_to_drop)
+
+
 def transform(frame, target_frame_columns, column_mapping, column_types) -> DataFrame:
     logger.log("Transforming data into target format...", True)
     # create a new DataFrame with columns in the specified order
@@ -161,4 +174,7 @@ def transform(frame, target_frame_columns, column_mapping, column_types) -> Data
                                target_frame_columns)
 
     logger.log("Data transformed successfully.", True)
+
+    transformed_frame = postprocess_frame(transformed_frame, target_frame_columns)
+
     return transformed_frame
