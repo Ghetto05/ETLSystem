@@ -4,7 +4,8 @@ import re
 import pandas as pd
 from pandas import isnull, DataFrame
 
-log_file_path = "../log.txt"
+# dynamically get path of script file and place log next to it
+log_file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "log.txt")
 
 def log(message, log_to_console):
     # optionally: print to console

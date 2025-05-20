@@ -1,6 +1,4 @@
 {
-  "save_output_to_csv": true,
-  "output_csv_path": "../output.csv",
   "column_types": {
     "id": "int",
     "nr": "int",
