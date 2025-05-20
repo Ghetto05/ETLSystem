@@ -281,8 +281,19 @@ def transform(frame, target_frame_columns, column_mapping, column_types) -> Data
     log("Data transformed successfully.", True)
     return transformed_frame
 
-def save_to_csv(frame, path):
-    log(f"Saving results to {path}", True)
+def save_to_csv(frame):
+    log("Saving results to CSV", False)
+    path_valid = False
+    path = ""
+    while not path_valid:
+        path = input("Enter target path: ")
+        if path.endswith(".csv"):
+            path_valid = True
+            log(f"User entered path: {path}", False)
+        else:
+            print("Invalid path. Enter a valid path ending with '.csv'.")
+            log(f"Invalid path entered: {path}", False)
+    log(f"Saving results as CSV to {path}", True)
     frame.to_csv(path, index=False, sep=';')
     log("Results saved successfully.", True)
 
@@ -321,8 +332,6 @@ def main():
 
     #region format and config values
 
-    save_output_to_csv: bool = format_data['save_output_to_csv']
-    output_csv_path: str = format_data['output_csv_path']
     column_types: dict[str, str] = format_data['column_types']
     column_mapping: dict[str, str] = format_data['column_mapping']
     target_frame_columns: dict[str, str] = format_data['target_frame_columns']
@@ -334,11 +343,9 @@ def main():
 
     # execute transform stage
     transformed_frame = transform(extracted_frame, target_frame_columns, column_mapping, column_types)
-    # transformed_frame = extracted_frame
 
     # save data to csv
-    if save_output_to_csv:
-        save_to_csv(transformed_frame, output_csv_path)
+    save_to_csv(transformed_frame)
 
 if __name__ == '__main__':
     main()
