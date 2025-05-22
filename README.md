@@ -1,9 +1,19 @@
 ## An *Extract, Transform, Load (ETL)* solution designed to process structured data in a modular and customizable way.
 
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Configuration Overview](#configuration-overview)
+- [Configuration - Tags and Mapping](#configuration---tags-and-mapping)
+- [Configuration - Data Types](#configuration---data-types)
+- [Logging](#logging)
+
 ## Usage
 
 To use this program, you need a folder containing table data in either CSV, JSON or XML files.
-You also need a json file defining the format of the data and the mapping into the desired target table (see [below](#configuration-overview)).
+You also need a json file defining the format of the data and the mapping into the desired target table (see [below](#configuration-overview)).<br/>
+
+<small>(Sample data has been supplied in `data/`, containing one CSV, JSON and XML file each.
+The `format.json` file contains a pre-made mapping tailored to these files and can also be found in the `data/` folder.)</small>
 
 Upon starting the program, you will be prompted to enter a path to your data files.
 A relative path will be accepted, but a full path is preferable.<br/>
@@ -95,3 +105,15 @@ or extraction will fail.
 
 Appending the tag `§REQUIRED` after a data type marks the column to be required.<br/>
 Any row without a value for the column will be discarded before saving.
+
+## Logging
+
+In addition to the simplified output shown in the console, there is a text file containing verbose output.
+It is called `log.txt` and will be placed next to the `main.py` file.
+
+Any prompt, action and user input is logged here.
+On any checks it will tell you which cells are being processed and which values are found.
+On automatic actions it will state for example which row is being deleted or which value is being modified.
+
+This serves to better understand the process and clear any confusion on why certain values exist
+or to find issues with the format file or the data itself.
