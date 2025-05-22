@@ -80,7 +80,7 @@ def postprocess_value(value, column_name, target_column_name, column_mapping, co
         value = value.lower()
         if value == "m" or value == "male" or value == "männlich" or value == "maennlich":
             return "M"
-        elif value == "f" or value == "female" or value == "weiblich":
+        elif value == "f" or value == "female" or value == "weiblich" or value == "w":
             return "F"
         else:
             return "X"
