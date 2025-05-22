@@ -1,4 +1,21 @@
-## An ***Extract, Transform, Load (ETL)*** solution designed to process structured data in a modular and customizable way.
+## An *Extract, Transform, Load (ETL)* solution designed to process structured data in a modular and customizable way.
+
+## Usage
+
+To use this program, you need a folder containing table data in either CSV, JSON or XML files.
+You also need a json file defining the format of the data and the mapping into the desired target table (see [below](#configuration-overview)).
+
+Upon starting the program, you will be prompted to enter a path to your data files.
+A relative path will be accepted, but a full path is preferable.<br/>
+Afterward, you will be prompted for a format file. Again, relative paths are accepted.
+
+During the extraction stage, any values that do not fit the expected datatype specified in the format file will be brought to attention.
+You are then given the option to either remove the row by entering `r` or replace the value with `e`.
+The prompt will reappear if the entered value does not fit the datatype as well.
+
+Once the extraction and transformation steps are completed, you will be asked what format the data should be stored in.
+After making your choice, you will be prompted for a save path.
+Once entered, the data will be saved and the operation will be completed.
 
 ## Project Structure
 
@@ -9,11 +26,15 @@ The project is organized into the following key components:
 
 - `src/extractor.py`
 
-  Contains functionality to extract data from various sources.
+  Contains functionality to extract data from CSV, JSON and XML files.
 
 - `src/transformer.py`
 
-  Processes and converts the extracted data into the desired format. It utilizes mapping rules described in the configuration.
+  Processes and converts the extracted data into the desired format. It utilizes mapping rules described in the format file.
+
+- `src/loader.py`
+
+  Saves the data in either CSV, JSON, XML or as a SQLite Database
 
 - Format JSON accompanying the data
   
@@ -29,10 +50,26 @@ The transformation logic is defined in the format JSON file:
 - `target_frame_columns`: Specifies the desired target columns and their data types
 - `column_mapping`: Maps source column names to target columns, and applies rules as specified
 
-## Configuration - Rules and Mapping
+## Configuration - Tags and Mapping
 
 The array `target_frame_columns` in the format JSON is used to map each source column to one target column.<br/>
 Many source columns can be mapped to one target column, but each source column can only have one target.
+
+There are some tags that can be used to process values before they are transformed into their target column:
+- `§DISCARD`:
+
+  Discard the value and skip the column
+- `§CALC§[calculation type]§[target column]`:
+
+  Calculate a value based on the cell<br/>The following calculation types exist:
+  - `AGE`: Calculate how many years have passed
+  - `BIRTHDATE`: Calculate a birthdate based on the current day
+
+- `§SPLIT$[separator character]§[target column 1]§[target column 2]...`
+
+  Splits the column's value using the specified separator character<br/>
+Any number of target columns can be defined and the split results will be distributed in order<br/>
+Any target columns exceeding the split result count will not receive a value and will remain empty
 
 ## Configuration - Data Types
 
@@ -55,3 +92,6 @@ or extraction will fail.
 - `datetime_DMY_-`: Dates in the `dd-mm-YYYY` format
 - `datetime_MDY_-`: Dates in the `mm-dd-YYYY` format
 - `datetime_YMD_-`: Dates in the `YYYY-mm-dd` format
+
+Appending the tag `§REQUIRED` after a data type marks the column to be required.<br/>
+Any row without a value for the column will be discarded before saving.
