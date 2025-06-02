@@ -2,4 +2,7 @@
 *.xml
 *.json
 *.db
-log.txt
+*.txt
+
+!how-to-venv.txt
+!requirements.txt
