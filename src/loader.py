@@ -1,8 +1,11 @@
+import os
+
 from pandas import DataFrame
 from sqlalchemy import create_engine
 from src import logger
 
-def save_to_csv(frame : DataFrame):
+# return size of the saved file
+def save_to_csv(frame : DataFrame) -> int:
     logger.log("Saving results to CSV", False)
     path_valid = False
     path = ""
@@ -17,9 +20,11 @@ def save_to_csv(frame : DataFrame):
     logger.log(f"Saving results as CSV to {path}", True)
     frame.to_csv(path, index=False, sep=';')
     logger.log("Results saved successfully.", True)
+    return os.path.getsize(path)
 
 
-def save_to_xml(frame : DataFrame):
+# return size of the saved file
+def save_to_xml(frame : DataFrame) -> int:
     logger.log("Saving results to XML", False)
     path_valid = False
     path = ""
@@ -34,9 +39,11 @@ def save_to_xml(frame : DataFrame):
     logger.log(f"Saving results as XML to {path}", True)
     frame.to_xml(path, index=False)
     logger.log("Results saved successfully.", True)
+    return os.path.getsize(path)
 
 
-def save_to_json(frame : DataFrame):
+# return size of the saved file
+def save_to_json(frame : DataFrame) -> int:
     logger.log("Saving results to JSON", False)
     path_valid = False
     path = ""
@@ -51,9 +58,11 @@ def save_to_json(frame : DataFrame):
     logger.log(f"Saving results as JSON to {path}", True)
     frame.to_json(path, index=False)
     logger.log("Results saved successfully.", True)
+    return os.path.getsize(path)
 
 
-def save_to_sql(frame: DataFrame):
+# return size of the saved file
+def save_to_sql(frame: DataFrame) -> int:
     logger.log("Saving results to SQL database", False)
     path_valid = False
     path = ""
@@ -73,28 +82,32 @@ def save_to_sql(frame: DataFrame):
 
     frame.to_sql(name=table_name, con=engine, if_exists="replace", index=False)
     logger.log("Results saved successfully.", True)
+    return os.path.getsize(path)
 
 
-def save(frame : DataFrame):
+# return size of the saved file
+def save(frame : DataFrame) -> int:
     valid_input = False
+    file_size = 0
     while not valid_input:
         target = input("Enter target format [csv, json, xml, sql]: ")
         if target == "csv":
             valid_input = True
             logger.log(f"User chose target format CSV", False)
-            save_to_csv(frame)
+            file_size = save_to_csv(frame)
         elif target == "json":
             valid_input = True
             logger.log(f"User chose target format JSON", False)
-            save_to_json(frame)
+            file_size = save_to_json(frame)
         elif target == "xml":
             valid_input = True
             logger.log(f"User chose target format XML", False)
-            save_to_xml(frame)
+            file_size = save_to_xml(frame)
         elif target == "sql":
             valid_input = True
             logger.log(f"User chose to save to database", False)
-            save_to_sql(frame)
+            file_size = save_to_sql(frame)
         else:
             print("Invalid input. Enter a valid target format.")
             logger.log(f"Invalid input entered: {target}", False)
+    return file_size

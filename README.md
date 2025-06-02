@@ -6,6 +6,7 @@
 - [Configuration - Tags and Mapping](#configuration---tags-and-mapping)
 - [Configuration - Data Types](#configuration---data-types)
 - [Logging](#logging)
+- [Statistics](#statistics)
 
 ## Usage
 
@@ -113,7 +114,22 @@ It is called `log.txt` and will be placed next to the `main.py` file.
 
 Any prompt, action and user input is logged here.
 On any checks it will tell you which cells are being processed and which values are found.
-On automatic actions it will state for example which row is being deleted or which value is being modified.
+On automatic actions it will state, for example, which row is being deleted or which value is being modified.
 
 This serves to better understand the process and clear any confusion on why certain values exist
 or to find issues with the format file or the data itself.
+
+## Statistics
+
+After the operation completed, you will be given a statistic of it.<br/>
+It will show the following:
+- `Source data rows`: The total count of rows found in the source data
+- `Source data bytes`: The total size of all source data files
+- `Target data rows`: The count of rows saved after completion
+- `Target data bytes`: The size of the saved file
+- `Data row reduction`: The difference between the row counts of the source and saved data
+- `Data size reduction`: The difference in size between the source data files and the saved file
+
+After the statistics are printed, you are given the option to save them to the disc.
+Entering `y` will save them to `statistics.txt` (placed next to `main.py` and `log.txt`),
+any other key will finish the operation without saving them.

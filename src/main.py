@@ -33,6 +33,24 @@ def get_format_file():
     return format_data
 
 
+def print_statistic(source_rows, source_bytes, target_rows, target_bytes):
+    statistic = "Statistics:\n"
+    statistic += f"Source data rows: {source_rows}\n"
+    statistic += f"Source data bytes: {source_bytes}\n"
+    statistic += f"Target data rows: {target_rows}\n"
+    statistic += f"Target data bytes: {target_bytes}\n"
+    statistic += f"Data row reduction: {(source_rows - target_rows) / source_rows * 100:.2f}%\n"
+    statistic += f"Data size reduction: {(source_bytes - target_bytes) / source_bytes * 100:.2f}%"
+    logger.log("\n\n" + statistic, True)
+    save = input("\nSave statistics to disc? [y, n]:")
+    if save.lower() == 'y':
+        print("Saving statistics...")
+        logger.log("Saving statistics to disc", False)
+        with open(path.join(path.dirname(path.abspath(__file__)), "log.txt"), 'w') as f:
+            f.write(statistic)
+        print("Statistics saved")
+
+
 def main():
     # create logger file or clear content if exists
     logger.init_logger()
@@ -49,13 +67,20 @@ def main():
     target_frame_columns: dict[str, str] = format_data['target_frame_columns']
 
     # execute extract stage
-    extracted_frame = extractor.extract(folder, column_types)
+    extracted_data = extractor.extract(folder, column_types)
+    extracted_frame = extracted_data[0]
+    source_data_rows = extracted_data[1]
+    source_data_bytes = extracted_data[2]
 
     # execute transform stage
     transformed_frame = transformer.transform(extracted_frame, target_frame_columns, column_mapping, column_types)
+    target_data_rows = len(transformed_frame)
 
     # save data
-    loader.save(transformed_frame)
+    target_data_bytes = loader.save(transformed_frame)
+
+    # print statistic
+    print_statistic(source_data_rows, source_data_bytes, target_data_rows, target_data_bytes)
 
 
 if __name__ == '__main__':

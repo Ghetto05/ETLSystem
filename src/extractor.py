@@ -69,7 +69,11 @@ def validate_data_types(df: DataFrame, file_name, column_types):
     return df
 
 
-def extract(folder, column_types) -> DataFrame:
+# return combined data frame, total amount of columns in source data and combined size of source data
+def extract(folder, column_types) -> tuple[DataFrame, int, int]:
+    total_source_rows = 0
+    total_source_bytes = 0
+
     # gather references to all found files
     files = listdir(folder)
     csv_collection = [file for file in files if file.endswith('.csv')]
@@ -88,6 +92,9 @@ def extract(folder, column_types) -> DataFrame:
             logger.log(f"Reading file {file}...", True)
             # read file
             df = read_csv(file_path, sep=';')
+            # save statistics
+            total_source_rows += len(df)
+            total_source_bytes += path.getsize(file_path)
             # validate data types
             df = validate_data_types(df, file, column_types)
             # append content to combined frame
@@ -101,6 +108,9 @@ def extract(folder, column_types) -> DataFrame:
             logger.log(f"Reading file {file}...", True)
             # read file
             df = read_xml(file_path)
+            # save statistics
+            total_source_rows += len(df)
+            total_source_bytes += path.getsize(file_path)
             # validate data types
             df = validate_data_types(df, file, column_types)
             # append content to combined frame
@@ -115,6 +125,9 @@ def extract(folder, column_types) -> DataFrame:
             logger.log(f"Reading file {file}...", True)
             # read file
             df = read_json(file_path)
+            # save statistics
+            total_source_rows += len(df)
+            total_source_bytes += path.getsize(file_path)
             # validate data types
             df = validate_data_types(df, file, column_types)
             # append content to combined frame
@@ -128,7 +141,7 @@ def extract(folder, column_types) -> DataFrame:
         logger.log("Data combined successfully. Dropping duplicates...", True)
         # drop duplicated
         frame.drop_duplicates()
-        return frame
+        return frame, total_source_rows, total_source_bytes
     else:
         logger.log("No data could be combined.", True)
         raise ValueError("No data could be combined.")
