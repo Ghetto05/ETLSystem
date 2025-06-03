@@ -33,12 +33,34 @@ def get_format_file():
     return format_data
 
 
+def format_bytes(value) -> str:
+    # return a string containing the bytes converted to the fitting unit and the unit symbol
+    symbol = "B"
+    return_value = value
+    if value < 1024:
+        symbol = "B"
+        return_value = value
+    elif value < 1024**2:
+        symbol = "KiB"
+        return_value = value / 1024
+    elif value < 1024**3:
+        symbol = "MiB"
+        return_value = value / 1024**2
+    elif value < 1024**4:
+        symbol = "GiB"
+        return_value = value / 1024**3
+    elif value < 1024**5:
+        symbol = "TiB"
+        return_value = value / 1024**4
+    return f"{return_value:.2f}".rstrip('00').rstrip('.') + symbol
+
+
 def print_statistic(source_rows, source_bytes, target_rows, target_bytes):
     statistic = "Statistics:\n"
     statistic += f"Source data rows: {source_rows}\n"
-    statistic += f"Source data bytes: {source_bytes}\n"
+    statistic += f"Source data bytes: {format_bytes(source_bytes)}\n"
     statistic += f"Target data rows: {target_rows}\n"
-    statistic += f"Target data bytes: {target_bytes}\n"
+    statistic += f"Target data bytes: {format_bytes(target_bytes)}\n"
     statistic += f"Data row reduction: {(source_rows - target_rows) / source_rows * 100:.2f}%\n"
     statistic += f"Data size reduction: {(source_bytes - target_bytes) / source_bytes * 100:.2f}%"
     logger.log("\n\n" + statistic, True)
