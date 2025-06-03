@@ -13,8 +13,13 @@
 To use this program, you need a folder containing table data in either CSV, JSON or XML files.
 You also need a json file defining the format of the data and the mapping into the desired target table (see [below](#configuration-overview)).<br/>
 
-(Sample data has been supplied in `data/`, containing one CSV, JSON and XML file each.
-The `format.json` file contains a pre-made mapping tailored to these files and can also be found in the `data/` folder.)
+Sample data for demonstration purposes has been supplied in `data/`, containing one CSV, JSON and XML file each.
+The `format.json` file contains a pre-made mapping tailored to these files and can also be found in the `data/` folder.<br/>
+To use this data, enter `data/` for the data folder and `data/format.json` for the format file.
+
+To start the program, you first need to restore the virtual environment.
+Refer to the file `how-to-venv.txt` for the command to restore the environment and execute it in the terminal.
+The program can be started by running the `main.py` file.
 
 Upon starting the program, you will be prompted to enter a path to your data files.
 A relative path will be accepted, but a full path is preferable.<br/>
